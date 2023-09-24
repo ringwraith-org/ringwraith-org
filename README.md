@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 @Credly BadgesBagdge
 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0fb5874f-89a3-4847-a9e7-e1dd8763dec0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
