@@ -1,5 +1,5 @@
 name: Update badges
-
+on: workflow_dispatch
 on:
   schedule:
     # Runs at 2am UTC
