@@ -9,4 +9,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_SORT: RECENT
-          CREDLY_USER: piers@ringwraith.org
+          CREDLY_USER: piers-margetts
