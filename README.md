@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://hatscripts.github.io/circle-flags/flags/gb-con.svg
-
+<img src="https://hatscripts.github.io/circle-flags/flags/gb-con.svg" width="48">
 
 @Credly BadgesBagdge
 
