@@ -13,7 +13,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:
-          GH_TOKEN: ${{ secrets.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 }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: Ringwraith-org/Ringwraith-org
           CREDLY_SORT: RECENT
           CREDLY_USER: piers-margetts
