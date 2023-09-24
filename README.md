@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Certifications](https://github-readme-widgets.vercel.app/api?username=piers-margetts)](https://github.com/mechdeveloper/github-readme-widgets)
+
 
 @Credly BadgesBagdge
 
