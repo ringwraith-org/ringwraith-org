@@ -17,16 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://hatscripts.github.io/circle-flags/flags/gb-con.svg" width="48">
 
-@Credly BadgesBagdge
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0fb5874f-89a3-4847-a9e7-e1dd8763dec0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-https://www.credly.com/badges/0fb5874f-89a3-4847-a9e7-e1dd8763dec0/public_url
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 
 ## Skills and tools
 
@@ -69,4 +59,21 @@ https://www.credly.com/badges/0fb5874f-89a3-4847-a9e7-e1dd8763dec0/public_url
 
 <br>
 <br>
-## Connect
+
+
+
+ ## Creadly Badges
+
+ 
+@Credly BadgesBagdge
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0fb5874f-89a3-4847-a9e7-e1dd8763dec0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+https://www.credly.com/badges/0fb5874f-89a3-4847-a9e7-e1dd8763dec0/public_url
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+ 
+ <p align="center">
