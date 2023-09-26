@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 
  ## Credly Badges
 My most recent badges:
+<br>
 To see all my badge click [here](https://www.credly.com/users/piers-margetts/badges)
 
 <!--START_SECTION:badges-->
