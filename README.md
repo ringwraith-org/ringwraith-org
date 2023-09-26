@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 
 
  ## Credly Badges
+To see all my Credly badges please click [here](https://www.credly.com/users/piers-margetts/badges)
+<br>
 My most recent badges:
 <br>
-To see all my badge click [here](https://www.credly.com/users/piers-margetts/badges)
-
 <!--START_SECTION:badges-->
 [![Kusto Detective Gold Star!](https://images.credly.com/size/100x100/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png)](http://www.credly.com/badges/0fb5874f-89a3-4847-a9e7-e1dd8763dec0 "Kusto Detective Gold Star!")
 [![Sterling Intelligent Promising Technical Essentials](https://images.credly.com/size/100x100/images/928a1bf2-ed2b-4484-91f4-204790586ae0/image.png)](http://www.credly.com/badges/13b3dff9-9df1-4039-8437-fe84057be98e "Sterling Intelligent Promising Technical Essentials")
