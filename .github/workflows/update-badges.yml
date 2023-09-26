@@ -13,8 +13,6 @@ jobs:
       - name: Badges - Readme   
         uses: pemtajo/badge-readme@2.4.0
         with:
-          NUMBER_LAST_BADGES: 400
-          CREDLY_SORT: RECENT
           CREDLY_USER: piers-margetts
           REPOSITORY: Ringwraith-org/Ringwraith-org
           
