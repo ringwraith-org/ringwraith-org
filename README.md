@@ -62,8 +62,9 @@ Here are some ideas to get you started:
 
 
 
- ## Creadly Badges
-
+ ## Credly Badges
+My most recent badges:
+To see all my badge click [here](https://www.credly.com/users/piers-margetts/badges)
 
 <!--START_SECTION:badges-->
 [![Kusto Detective Gold Star!](https://images.credly.com/size/100x100/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png)](http://www.credly.com/badges/0fb5874f-89a3-4847-a9e7-e1dd8763dec0 "Kusto Detective Gold Star!")
