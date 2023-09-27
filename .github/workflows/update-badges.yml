@@ -15,5 +15,5 @@ jobs:
         with:
           CREDLY_USER: piers-margetts
           REPOSITORY: ringwraith-org/ringwraith-org          
-          BADGE_SIZE: 80
+          BADGE_SIZE: 110
           NUMBER_LAST_BADGES: 240
