@@ -64,6 +64,11 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/2da07672-7b39-4de3-9668-d16ee48fc7cc/image.png)](http://www.credly.com/badges/945a4b1f-01f6-4147-b22a-6fee96a2a5b5 "Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data")
+[![Introduction to the Threat Landscape 1.0](https://images.credly.com/size/110x110/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png)](http://www.credly.com/badges/ebf10270-cc74-4cfa-9211-001a1da5c214 "Introduction to the Threat Landscape 1.0")
+[![Getting Started in Cybersecurity 1.0](https://images.credly.com/size/110x110/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png)](http://www.credly.com/badges/1f3dd2b9-ae79-4d43-ad97-978f1fce8d80 "Getting Started in Cybersecurity 1.0")
+[![Proofpoint Certified AI/ML Specialist 2023](https://images.credly.com/size/110x110/images/93ccbbd1-b6ab-43ad-b485-a7dffa92f92e/image.png)](http://www.credly.com/badges/00f64819-ec63-46fc-8bee-dbc21d31f8c5 "Proofpoint Certified AI/ML Specialist 2023")
+[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/a9401be4-13dd-4fd1-aff7-21702175735c "Fortinet Certified Fundamentals Cybersecurity")
 [![Kusto Detective Gold Star!](https://images.credly.com/size/110x110/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png)](http://www.credly.com/badges/0fb5874f-89a3-4847-a9e7-e1dd8763dec0 "Kusto Detective Gold Star!")
 [![Sterling Intelligent Promising Technical Essentials](https://images.credly.com/size/110x110/images/928a1bf2-ed2b-4484-91f4-204790586ae0/image.png)](http://www.credly.com/badges/13b3dff9-9df1-4039-8437-fe84057be98e "Sterling Intelligent Promising Technical Essentials")
 [![New Rank: Senior Detective Agent](https://images.credly.com/size/110x110/images/86ba2d7a-85fb-4331-bf1d-2e7b8ec32220/image.png)](http://www.credly.com/badges/28f0a129-669d-4cdc-ba99-1b3386fc701b "New Rank: Senior Detective Agent")
@@ -107,11 +112,6 @@ My most recent badges:
 [![IBM Z Xplore Code-a-Thon Achiever](https://images.credly.com/size/110x110/images/e2e24100-a2c7-403a-8209-280bdc540651/image.png)](http://www.credly.com/badges/d8afc73d-6875-44ad-8eda-6c703c79f2f1 "IBM Z Xplore Code-a-Thon Achiever")
 [![Proofpoint Certified Security Awareness Specialist 2023](https://images.credly.com/size/110x110/images/2c3a47aa-45a1-420f-a79f-4d0fbb3e478a/image.png)](http://www.credly.com/badges/881bf455-e23a-4cd7-b746-17672b3fe573 "Proofpoint Certified Security Awareness Specialist 2023")
 [![Sterling B2B Integrator Certified Container Edition Deployment Technical Essentials](https://images.credly.com/size/110x110/images/a4198e08-5a71-41ed-83c6-fd0e4df8920d/image.png)](http://www.credly.com/badges/16bbaa6e-1792-4e1f-83e5-80adf6570534 "Sterling B2B Integrator Certified Container Edition Deployment Technical Essentials")
-[![New Rank: Kusto Senior Detective II](https://images.credly.com/size/110x110/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png)](http://www.credly.com/badges/476cb2ee-39b5-4f08-9a43-ec066b75c2df "New Rank: Kusto Senior Detective II")
-[![Maximo for Aviation Foundations](https://images.credly.com/size/110x110/images/28940305-b7fb-4481-8853-e35a9f419539/image.png)](http://www.credly.com/badges/024ccdb4-b607-4598-9cbc-c33773ef1354 "Maximo for Aviation Foundations")
-[![LFC102: Inclusive Open Source Community Orientation](https://images.credly.com/size/110x110/images/82f20568-3ec3-4422-a2de-f06f5483f102/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/2b6857e6-159a-4e34-b6f3-d7eb699ca971 "LFC102: Inclusive Open Source Community Orientation")
-[![LFC101: Inclusive Speaker Orientation](https://images.credly.com/size/110x110/images/fd5820dd-feb2-4473-b6d1-25859f617336/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/164f9fa8-c540-4004-b284-7c58dc0e74bb "LFC101: Inclusive Speaker Orientation")
-[![LFC131: Green Software for Practitioners](https://images.credly.com/size/110x110/images/e11a03a6-904f-4e08-9427-ab48d3885e4f/image.png)](http://www.credly.com/badges/374152c0-69c8-40f9-8e16-ef47847d89d0 "LFC131: Green Software for Practitioners")
 <!--END_SECTION:badges-->
 
  
