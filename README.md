@@ -31,7 +31,7 @@
 
 ## Applications
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
           
 <br>
 
