@@ -23,6 +23,10 @@
 
 ## Languages
 
+<img height="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+
+
 <br>
 
 ## Tools
@@ -31,7 +35,7 @@
 
 ## Applications
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
+<img height="40" alt="IBM SPSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
           
 <br>
 
