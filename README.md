@@ -30,7 +30,7 @@
 <br>
 
 ## Tools
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
+<img height="40" alt="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
           
 <br>
 
