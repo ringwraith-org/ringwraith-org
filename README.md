@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Piers Margetts</h1>
-<h3 align="center">Not you average IT geek!</h3>
 
+<img align="left" src="https://hatscripts.github.io/circle-flags/flags/gb-con.svg" width="48"><img align="right" src="https://hatscripts.github.io/circle-flags/flags/gb-con.svg" width="48"> <h1 align="center">Hi 👋, I'm Piers Margetts</h1> 
+
+<h3 align="center">Not you average IT geek!</h3>
 
 - 🔭 I’m currently working on **lots of stuff**
 
@@ -23,17 +24,15 @@
 
 ## Languages
 
-
+<br>
 
 ## Tools
 
-
+<br>
 
 ## Applications
 
-
-
-<img src="https://hatscripts.github.io/circle-flags/flags/gb-con.svg" width="48">
+<br>
 
 
 ## Skills and tools
@@ -123,7 +122,3 @@ My most recent badges:
 [![Sterling B2B Integrator Certified Container Edition Deployment Technical Essentials](https://images.credly.com/size/110x110/images/a4198e08-5a71-41ed-83c6-fd0e4df8920d/image.png)](http://www.credly.com/badges/16bbaa6e-1792-4e1f-83e5-80adf6570534 "Sterling B2B Integrator Certified Container Edition Deployment Technical Essentials")
 <!--END_SECTION:badges-->
 
- 
- <p align="center">
-## 😂 Here is a random joke that'll make you laugh!
-[Jokes Card](https://readme-jokes.vercel.app/api)
