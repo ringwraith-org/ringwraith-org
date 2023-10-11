@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **piers@ringwraith.org**
 
-- ⚡ Fun fact **100m 10.60**
 
 ## Connect
 <a href="https://twitter.com/twitringer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitringer" height="30" width="40" /></a>
