@@ -36,7 +36,8 @@
 ## Applications
 
 <img height="40" alt="IBM SPSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
-          
+<img height="40" alt="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+                    
 <br>
 
 
