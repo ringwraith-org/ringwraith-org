@@ -30,7 +30,8 @@
 <br>
 
 ## Tools
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
+          
 <br>
 
 ## Applications
