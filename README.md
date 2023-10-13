@@ -79,6 +79,7 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Creating Voice Interfaces with IBM Watson Speech to Text and Text to Speech Services](https://images.credly.com/size/110x110/images/f289ae45-306c-4eef-aade-43bd5911459c/image.png)](http://www.credly.com/badges/26cf4642-b808-4548-b7d4-09461fb9b992 "Creating Voice Interfaces with IBM Watson Speech to Text and Text to Speech Services")
 [![Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/2da07672-7b39-4de3-9668-d16ee48fc7cc/image.png)](http://www.credly.com/badges/945a4b1f-01f6-4147-b22a-6fee96a2a5b5 "Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data")
 [![Introduction to the Threat Landscape 1.0](https://images.credly.com/size/110x110/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png)](http://www.credly.com/badges/ebf10270-cc74-4cfa-9211-001a1da5c214 "Introduction to the Threat Landscape 1.0")
 [![Getting Started in Cybersecurity 1.0](https://images.credly.com/size/110x110/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png)](http://www.credly.com/badges/1f3dd2b9-ae79-4d43-ad97-978f1fce8d80 "Getting Started in Cybersecurity 1.0")
@@ -126,6 +127,5 @@ My most recent badges:
 [![Lean Six Sigma White Belt Professional Certification - LSSWBPC](https://images.credly.com/size/110x110/images/46f02580-9a09-490d-aed6-efed3190c1d8/image.png)](http://www.credly.com/badges/1e411854-e016-4f4c-bb2b-64a7738126fe "Lean Six Sigma White Belt Professional Certification - LSSWBPC")
 [![IBM Z Xplore Code-a-Thon Achiever](https://images.credly.com/size/110x110/images/e2e24100-a2c7-403a-8209-280bdc540651/image.png)](http://www.credly.com/badges/d8afc73d-6875-44ad-8eda-6c703c79f2f1 "IBM Z Xplore Code-a-Thon Achiever")
 [![Proofpoint Certified Security Awareness Specialist 2023](https://images.credly.com/size/110x110/images/2c3a47aa-45a1-420f-a79f-4d0fbb3e478a/image.png)](http://www.credly.com/badges/881bf455-e23a-4cd7-b746-17672b3fe573 "Proofpoint Certified Security Awareness Specialist 2023")
-[![Sterling B2B Integrator Certified Container Edition Deployment Technical Essentials](https://images.credly.com/size/110x110/images/a4198e08-5a71-41ed-83c6-fd0e4df8920d/image.png)](http://www.credly.com/badges/16bbaa6e-1792-4e1f-83e5-80adf6570534 "Sterling B2B Integrator Certified Container Edition Deployment Technical Essentials")
 <!--END_SECTION:badges-->
 
