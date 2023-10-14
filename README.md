@@ -1,7 +1,7 @@
 
 <img align="left" src="https://hatscripts.github.io/circle-flags/flags/gb-con.svg" width="48"><img align="right" src="https://hatscripts.github.io/circle-flags/flags/gb-con.svg" width="48"> <h1 align="center">Hi 👋, I'm Piers Margetts</h1> 
 
-<h3 align="center">Not you average IT geek!</h3>
+<h3 align="center">Not your average IT geek!</h3>
 
 - 🔭 I’m currently working on **lots of stuff**
 
