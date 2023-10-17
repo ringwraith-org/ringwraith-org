@@ -22,6 +22,7 @@
 ## Memberships
 
 British Computer Society (BCS)
+<br>
 International Db2 Users Group (IDUG®)
 
 ## Languages
