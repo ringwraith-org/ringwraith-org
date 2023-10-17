@@ -19,7 +19,10 @@
 <a href="https://linkedin.com/in/piers-margetts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piers-margetts" height="30" width="40" /></a>
 </p>
 
+## Memberships
 
+British Computer Society (BCS)
+International Db2 Users Group (IDUG®)
 
 ## Languages
 
