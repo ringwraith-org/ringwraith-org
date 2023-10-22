@@ -85,6 +85,11 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IT Academy: Cloud and Virtualization Concepts](https://images.credly.com/size/110x110/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png)](http://www.credly.com/badges/57ba5216-795a-41ac-be3b-759be6baac32 "IT Academy: Cloud and Virtualization Concepts")
+[![IT Academy: Network Virtualization Concepts](https://images.credly.com/size/110x110/images/930cc3e4-8a2e-41ae-84b8-40fcf471f786/image.png)](http://www.credly.com/badges/9f966ceb-f218-48c9-be45-58d6e08605d6 "IT Academy: Network Virtualization Concepts")
+[![IT Academy: Software Defined Storage Concepts](https://images.credly.com/size/110x110/images/8402299b-f265-4a94-bfea-08fc925e7d0b/image.png)](http://www.credly.com/badges/af137031-c00e-477f-ad0f-83fc345d11c1 "IT Academy: Software Defined Storage Concepts")
+[![Quantum-Safe Encryption Essentials](https://images.credly.com/size/110x110/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)](http://www.credly.com/badges/50a73d78-8f71-4e86-a46f-95f9dea117a6 "Quantum-Safe Encryption Essentials")
+[![IBM watsonx Foundations](https://images.credly.com/size/110x110/images/abe89eb9-1cea-4c04-a81c-024d8741299d/image.png)](http://www.credly.com/badges/95ce5f95-16c9-4bb9-bf83-0e9322a5699a "IBM watsonx Foundations")
 [![Creating Voice Interfaces with IBM Watson Speech to Text and Text to Speech Services](https://images.credly.com/size/110x110/images/f289ae45-306c-4eef-aade-43bd5911459c/image.png)](http://www.credly.com/badges/26cf4642-b808-4548-b7d4-09461fb9b992 "Creating Voice Interfaces with IBM Watson Speech to Text and Text to Speech Services")
 [![Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/2da07672-7b39-4de3-9668-d16ee48fc7cc/image.png)](http://www.credly.com/badges/945a4b1f-01f6-4147-b22a-6fee96a2a5b5 "Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data")
 [![Introduction to the Threat Landscape 1.0](https://images.credly.com/size/110x110/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png)](http://www.credly.com/badges/ebf10270-cc74-4cfa-9211-001a1da5c214 "Introduction to the Threat Landscape 1.0")
@@ -128,10 +133,5 @@ My most recent badges:
 [![IBM DataStage V11.5.x Configuration](https://images.credly.com/size/110x110/images/7a3018b6-8b41-4499-9010-2d58d904316d/DataStage_-_Configuration_-_V11.5.x_v2.png)](http://www.credly.com/badges/e552d087-cd1e-4deb-98af-46be6bd842ec "IBM DataStage V11.5.x Configuration")
 [![New rank: Special Detective Agent](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](http://www.credly.com/badges/28800263-dae7-40c5-9112-961ad79c2253 "New rank: Special Detective Agent")
 [![IBM Cloud Security Engineer Accelerator](https://images.credly.com/size/110x110/images/4c81abf9-136e-4c26-a0f8-a4b011fde9a5/image.png)](http://www.credly.com/badges/08287ee0-7567-4e1c-9bf8-ac9d343b1c0b "IBM Cloud Security Engineer Accelerator")
-[![IBM Resilient SOAR Foundations](https://images.credly.com/size/110x110/images/85529d54-e194-47b0-a198-d278a6cf84c4/IBM_resilient_SOAR_Foundations.png)](http://www.credly.com/badges/7f043b9a-60eb-4698-9d7c-df147c438a72 "IBM Resilient SOAR Foundations")
-[![New rank: Principal Detective](https://images.credly.com/size/110x110/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png)](http://www.credly.com/badges/3af52984-cf4a-46ac-9339-9715ab99202c "New rank: Principal Detective")
-[![Lean Six Sigma White Belt Professional Certification - LSSWBPC](https://images.credly.com/size/110x110/images/46f02580-9a09-490d-aed6-efed3190c1d8/image.png)](http://www.credly.com/badges/1e411854-e016-4f4c-bb2b-64a7738126fe "Lean Six Sigma White Belt Professional Certification - LSSWBPC")
-[![IBM Z Xplore Code-a-Thon Achiever](https://images.credly.com/size/110x110/images/e2e24100-a2c7-403a-8209-280bdc540651/image.png)](http://www.credly.com/badges/d8afc73d-6875-44ad-8eda-6c703c79f2f1 "IBM Z Xplore Code-a-Thon Achiever")
-[![Proofpoint Certified Security Awareness Specialist 2023](https://images.credly.com/size/110x110/images/2c3a47aa-45a1-420f-a79f-4d0fbb3e478a/image.png)](http://www.credly.com/badges/881bf455-e23a-4cd7-b746-17672b3fe573 "Proofpoint Certified Security Awareness Specialist 2023")
 <!--END_SECTION:badges-->
 
