@@ -23,9 +23,9 @@
 
 [British Computer Society]( https://www.bcs.org/) (BCS)
 <br>
-International Db2 Users Group (IDUG®)
+[International Db2 Users Group](https://www.idug.org/home) (IDUG®)
 <br>
-Human Creator Alliance (HCA)
+[Human Creator Alliance](https://humancreatoralliance.org/) (HCA)
 
 ## Languages
 
