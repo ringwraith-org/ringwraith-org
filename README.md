@@ -1,4 +1,4 @@
-
+<img align="centre" src="/images/image.jpeg">
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <h1 align="center">Hi 👋, I'm Piers Margetts</h1> 
 
 <h3 align="center">Not your average IT geek!</h3>
