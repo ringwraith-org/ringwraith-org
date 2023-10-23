@@ -21,7 +21,7 @@
 
 ## Memberships
 
-[British Computer Society (BCS)]( https://www.bcs.org/)
+[British Computer Society]( https://www.bcs.org/) (BCS)
 <br>
 International Db2 Users Group (IDUG®)
 <br>
