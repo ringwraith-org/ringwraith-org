@@ -6,11 +6,11 @@
 I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to futher my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society.
 I have a particular interest in Artificial Intelligence, Robotic Automation and Quantum Computing.
 
-My skills and knowledge are deliberately ecletic and tend to follow rabbit holes I find myself going down.
+My skills and knowledge are deliberately ecletic and tend to follow thr rabbit holes I find myself going down.
 
 
 
-- 🔭 I’m currently working on **lots of stuff**
+- 🔭 I’m currently working on **Quantum Computing** and **Neural Nets** 
 
 - 🌱 I’m currently learning **Cybersecurity**
 
