@@ -38,7 +38,7 @@ My knowledge, skills and interests are deliberately ecletic and tend to follow t
 
 Windows 10, Windows 11, 
 
-## Deprecated Operating Systems
+### Deprecated Operating Systems
 Windows 3.1, Windows 95, Window 98, Windows ME, Windows 7 
 OS2
 IRIX
@@ -73,21 +73,24 @@ Automation Tools = Apache Maven
 <br>
 
 ## Applications
-<p align="centre">
-<img height="40" alt="IBM SPSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
-<img height="40" alt="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-</p>                    
+               
 <br>
-# Microsoft
+ 
+### Microsoft
 Word Excel Powerpoint Access Visio Project Outlook
+### Adobe
 Photoshop Premier Illustrator Acrobat
+### IBM
+Cloud Pak, Maximo, SPSS
+### OpenSource
+WordPress InkScape
 
 ## Skills and tools
 
 
 <br/>
 
- ## Credly Badges
+## Credly Badges
 To see all my Credly badges please click [here](https://www.credly.com/users/piers-margetts/badges)
 <br>
 <br>
