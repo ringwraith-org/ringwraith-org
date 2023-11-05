@@ -27,7 +27,12 @@ My knowledge, skills and interests are deliberately ecletic and tend to follow t
 </p>
 
 ## Memberships
-
+[Royal Society of Arts](https://www.thersa.org/) (RSA)
+<br>
+[Royal Institution](https://www.rigb.org/) (Ri)
+<br>
+[Royal Society of Literature](https://rsliterature.org/) (RSL)
+<br>
 [British Computer Society]( https://www.bcs.org/) (BCS)
 <br>
 [International Db2 Users Group](https://www.idug.org/home) (IDUG®)
