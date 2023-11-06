@@ -33,9 +33,11 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 <br>
 [Royal Society of Literature](https://rsliterature.org/) (RSL)
 <br>
+[Institute of Continuing Professional Development](https://www.cpdinstitute.org/) (iCPD)
+<br>
 [British Computer Society]( https://www.bcs.org/) (BCS)
 <br>
-[International Db2 Users Group](https://www.idug.org/home) (IDUG®)
+[International Db2 Users Group](https://www.idug.org/home) (IDUG)
 <br>
 [Human Creator Alliance](https://humancreatoralliance.org/) (HCA)
 
