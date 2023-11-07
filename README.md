@@ -96,8 +96,14 @@ WordPress InkScape
 
 
 <br/>
+## Courses
+<br>
 
-## Credly Badges
+### OpenLearn
+To view my Open University OpenLearn Profile please click [here](https://www.open.edu/openlearn/profiles/zv599976))
+<br>
+
+### Credly Badges
 To see all my Credly badges please click [here](https://www.credly.com/users/piers-margetts/badges)
 <br>
 <br>
