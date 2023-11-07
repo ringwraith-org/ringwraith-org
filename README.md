@@ -100,7 +100,7 @@ WordPress InkScape
 <br>
 
 ### OpenLearn
-To view my Open University OpenLearn Profile please click [here](https://www.open.edu/openlearn/profiles/zv599976))
+To view my Open University OpenLearn profile and acheivements please click [here](https://www.open.edu/openlearn/profiles/zv599976)
 <br>
 
 ### Credly Badges
