@@ -111,8 +111,10 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
-[![IBM Business Automation Application - Tech Jam](https://images.credly.com/size/110x110/images/af7e7082-21e7-482f-a166-5bf6fe9c4959/IBM_Business_Automation_Application.png)](http://www.credly.com/badges/abcaaa6c-8c19-4933-ac4d-ea9ce6adda57 "IBM Business Automation Application - Tech Jam")
-[![IBM Cloud Pak for Business Automation - Tech Jam](https://images.credly.com/size/110x110/images/2e227e3f-88b7-40d7-b009-b034b340116b/IBM_Cloud_Pak_for_Business_Automation_-_General_Practitioner.png)](http://www.credly.com/badges/0547c13d-17ff-4d10-81e2-88fa186ae6f6 "IBM Cloud Pak for Business Automation - Tech Jam")
+[![Introduction to Data Fabric with IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/3507270c-4750-4e6f-91f3-94037d616d5b/image.png)](http://www.credly.com/badges/9b4d7bc7-ddc1-4201-8aed-6587ae237d3f "Introduction to Data Fabric with IBM Cloud Pak for Data")
+[![Fellow - FInstCPD](https://images.credly.com/size/110x110/images/7c82ea0f-11d1-4338-a4a0-f56ab9670a93/FInst.png)](http://www.credly.com/badges/5ff91706-935f-44b3-bf13-caecab24ab5d "Fellow - FInstCPD")
+[![IBM Business Automation Application - Tech Jam](https://images.credly.com/size/110x110/images/be661b3f-e44b-4391-8f3a-76478416cf70/image.png)](http://www.credly.com/badges/abcaaa6c-8c19-4933-ac4d-ea9ce6adda57 "IBM Business Automation Application - Tech Jam")
+[![IBM Cloud Pak for Business Automation - Tech Jam](https://images.credly.com/size/110x110/images/9d2f19d9-cad4-4d53-83b8-d6f86e30eae4/image.png)](http://www.credly.com/badges/0547c13d-17ff-4d10-81e2-88fa186ae6f6 "IBM Cloud Pak for Business Automation - Tech Jam")
 [![Extending SAP S/4HANA with SAP Build Apps and Key User Extensibility - Record of Achievement](https://images.credly.com/size/110x110/images/8f670d80-52fa-4dcc-a513-59df833b7725/image.png)](http://www.credly.com/badges/24515a3f-98f8-4ebe-a57f-a14fb72d28d9 "Extending SAP S/4HANA with SAP Build Apps and Key User Extensibility - Record of Achievement")
 [![Exploring Data Modeling with SAP Solutions - Record of Achievement](https://images.credly.com/size/110x110/images/2d619579-0343-43c6-8797-b1f684e7c49f/image.png)](http://www.credly.com/badges/76b837fe-9e6e-48e6-bcfc-0397cab327d1 "Exploring Data Modeling with SAP Solutions - Record of Achievement")
 [![Exploring SAP Customer Data Platform Essentials - Record of Achievement](https://images.credly.com/size/110x110/images/4f8f8320-f0f9-44a9-be05-e7fe3cd62ee9/image.png)](http://www.credly.com/badges/fc8ad9cd-00a4-4f37-96b4-40f1894c3080 "Exploring SAP Customer Data Platform Essentials - Record of Achievement")
@@ -157,7 +159,5 @@ My most recent badges:
 [![Getting Started in Cybersecurity 1.0](https://images.credly.com/size/110x110/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png)](http://www.credly.com/badges/1f3dd2b9-ae79-4d43-ad97-978f1fce8d80 "Getting Started in Cybersecurity 1.0")
 [![Proofpoint Certified AI/ML Specialist 2023](https://images.credly.com/size/110x110/images/93ccbbd1-b6ab-43ad-b485-a7dffa92f92e/image.png)](http://www.credly.com/badges/00f64819-ec63-46fc-8bee-dbc21d31f8c5 "Proofpoint Certified AI/ML Specialist 2023")
 [![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/a9401be4-13dd-4fd1-aff7-21702175735c "Fortinet Certified Fundamentals Cybersecurity")
-[![Kusto Detective Gold Star!](https://images.credly.com/size/110x110/images/8aa171e5-784a-4a9e-b1ab-c3b818ea136a/image.png)](http://www.credly.com/badges/0fb5874f-89a3-4847-a9e7-e1dd8763dec0 "Kusto Detective Gold Star!")
-[![Sterling Intelligent Promising Technical Essentials](https://images.credly.com/size/110x110/images/928a1bf2-ed2b-4484-91f4-204790586ae0/image.png)](http://www.credly.com/badges/13b3dff9-9df1-4039-8437-fe84057be98e "Sterling Intelligent Promising Technical Essentials")
 <!--END_SECTION:badges-->
 
