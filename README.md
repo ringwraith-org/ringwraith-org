@@ -15,6 +15,12 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 <img height="60" align="centre" src="/images/thoughtful-sticker.png">
 
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+
+
 [Royal Society of Arts](https://www.thersa.org/) (RSA)
 <br>
 [Royal Institution](https://www.rigb.org/) (Ri)
@@ -28,6 +34,10 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 [International Db2 Users Group](https://www.idug.org/home) (IDUG)
 <br>
 [Human Creator Alliance](https://humancreatoralliance.org/) (HCA)
+
+</details>
+
+
 
 ## Operating Systems
 
