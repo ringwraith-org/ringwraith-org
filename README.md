@@ -12,16 +12,11 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 <img height="60" align="centre" src="/images/fist_bump-sticker.png">
 
 ## Memberships
+<img height="60" align="centre" src="/images/thoughtful-sticker.png">
 
 <details>
 
-<summary>Expand</summary>
-
-<img height="60" align="centre" src="/images/thoughtful-sticker.png">
-
-
-
-
+<summary>Details:</summary>
 
 [Royal Society of Arts](https://www.thersa.org/) (RSA)
 <br>
