@@ -93,9 +93,6 @@ Cloud Pak, Maximo, SPSS
 WordPress InkScape
 
 ## Courses
-
-<br>
-
 ### OpenLearn
 To view my Open University OpenLearn profile and acheivements please click [here](https://www.open.edu/openlearn/profiles/zv599976)
 <br>
