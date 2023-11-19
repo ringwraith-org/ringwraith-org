@@ -8,22 +8,7 @@ I have a particular interest in Artificial Intelligence, Robotic Automation and 
 
 My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down.
 
-</br>
-
-- 🔭 I’m currently working on **Quantum Computing** and **Neural Nets** 
-
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 🤝 I’m looking for help with **Everything**
-
-- 💬 Ask me about **AI, Information Governance, Payroll**
-
-- 📫 How to reach me **piers@ringwraith.org**
-
-
 ## Connect
-<a href="https://twitter.com/twitringer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitringer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piers-margetts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piers-margetts" height="30" width="40" /></a>
 </p>
 
 ## Memberships
