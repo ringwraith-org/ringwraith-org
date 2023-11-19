@@ -9,7 +9,8 @@ I have a particular interest in Artificial Intelligence, Robotic Automation and 
 My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down.
 
 ## Connect
-<img align="centre" src="/images/fist_bump-sticker.png">
+<img height="40" align="centre" src="/images/fist_bump-sticker.png">
+
 ## Memberships
 [Royal Society of Arts](https://www.thersa.org/) (RSA)
 <br>
