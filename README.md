@@ -111,6 +111,9 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM Cloud for SAP Specialty Accelerator](https://images.credly.com/size/110x110/images/dde9de9f-b2c7-4775-afd1-ccf1fd60795f/image.png)](http://www.credly.com/badges/1095069e-3968-4c72-96f8-fd233087e9d0 "IBM Cloud for SAP Specialty Accelerator")
+[![IBM Aspera Console Administration](https://images.credly.com/size/110x110/images/e11cc013-3eed-4970-a94e-dcbc1395171a/image.png)](http://www.credly.com/badges/82ac3c8f-fe7c-4947-865e-e3f1be68f25b "IBM Aspera Console Administration")
+[![IBM Cloud Satellite Essentials](https://images.credly.com/size/110x110/images/83381f66-e16d-4eff-9ae0-32699d617b4c/image.png)](http://www.credly.com/badges/cb26392e-0805-4eab-8806-220f10b0ffef "IBM Cloud Satellite Essentials")
 [![Introduction to Data Fabric with IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/3507270c-4750-4e6f-91f3-94037d616d5b/image.png)](http://www.credly.com/badges/9b4d7bc7-ddc1-4201-8aed-6587ae237d3f "Introduction to Data Fabric with IBM Cloud Pak for Data")
 [![Fellow - FInstCPD](https://images.credly.com/size/110x110/images/7c82ea0f-11d1-4338-a4a0-f56ab9670a93/FInst.png)](http://www.credly.com/badges/5ff91706-935f-44b3-bf13-caecab24ab5d "Fellow - FInstCPD")
 [![IBM Business Automation Application - Tech Jam](https://images.credly.com/size/110x110/images/be661b3f-e44b-4391-8f3a-76478416cf70/image.png)](http://www.credly.com/badges/abcaaa6c-8c19-4933-ac4d-ea9ce6adda57 "IBM Business Automation Application - Tech Jam")
@@ -156,8 +159,5 @@ My most recent badges:
 [![Creating Voice Interfaces with IBM Watson Speech to Text and Text to Speech Services](https://images.credly.com/size/110x110/images/f289ae45-306c-4eef-aade-43bd5911459c/image.png)](http://www.credly.com/badges/26cf4642-b808-4548-b7d4-09461fb9b992 "Creating Voice Interfaces with IBM Watson Speech to Text and Text to Speech Services")
 [![Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/2da07672-7b39-4de3-9668-d16ee48fc7cc/image.png)](http://www.credly.com/badges/945a4b1f-01f6-4147-b22a-6fee96a2a5b5 "Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data")
 [![Introduction to the Threat Landscape 1.0](https://images.credly.com/size/110x110/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png)](http://www.credly.com/badges/ebf10270-cc74-4cfa-9211-001a1da5c214 "Introduction to the Threat Landscape 1.0")
-[![Getting Started in Cybersecurity 1.0](https://images.credly.com/size/110x110/images/a026e7f2-08af-4b73-8cc1-5aec7959faf8/image.png)](http://www.credly.com/badges/1f3dd2b9-ae79-4d43-ad97-978f1fce8d80 "Getting Started in Cybersecurity 1.0")
-[![Proofpoint Certified AI/ML Specialist 2023](https://images.credly.com/size/110x110/images/93ccbbd1-b6ab-43ad-b485-a7dffa92f92e/image.png)](http://www.credly.com/badges/00f64819-ec63-46fc-8bee-dbc21d31f8c5 "Proofpoint Certified AI/ML Specialist 2023")
-[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/110x110/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/a9401be4-13dd-4fd1-aff7-21702175735c "Fortinet Certified Fundamentals Cybersecurity")
 <!--END_SECTION:badges-->
 
