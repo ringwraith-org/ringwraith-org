@@ -92,11 +92,8 @@ Cloud Pak, Maximo, SPSS
 ### OpenSource
 WordPress InkScape
 
-## Skills and tools
-
-
-<br/>
 ## Courses
+
 <br>
 
 ### OpenLearn
