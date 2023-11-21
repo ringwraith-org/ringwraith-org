@@ -10,11 +10,12 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 
 ## Connect
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
-<img height="60" align="centre" src="/images/fist_bump-sticker.png">
+<img height="60" align="center" src="/images/fist_bump-sticker.png">
 
 ## Memberships
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
-<img height="60" align="centre" src="/images/thoughtful-sticker.png">
+<img height="60" align="center
+          " src="/images/thoughtful-sticker.png">
 
 <details>
 
