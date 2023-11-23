@@ -9,12 +9,10 @@ I have a particular interest in Artificial Intelligence, Robotic Automation and 
 My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down.
 
 ## Connect
-<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
-<img height="60" align="center" src="/images/connect-sticker.png">
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/connect-sticker.png">
 
 ## Memberships
-<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
-<img height="60" align="center" src="/images/thoughtful-sticker.png">
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/thoughtful-sticker.png">
 
 <details>
 
