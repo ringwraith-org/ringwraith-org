@@ -1,12 +1,8 @@
 <img align="center" src="/images/image.jpeg">
-<br>
-
-<img align="center" src="/images/PM Circle.png" width="150">
-<br>
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <h1 align="center">Hi 👋, I'm Piers Margetts</h1> 
 
 <h3 align="center">Not your average IT geek!</h3>
-
+<img align="center" src="/images/PM Circle.png" width="150">
 I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to futher my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society.
 I have a particular interest in Artificial Intelligence, Robotic Automation and Quantum Computing.
 
