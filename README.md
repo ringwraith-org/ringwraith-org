@@ -10,7 +10,7 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 
 ## Connect
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
-<img height="60" align="center" src="/images/fist_bump-sticker.png">
+<img height="60" align="center" src="/images/connect-sticker.png">
 
 ## Memberships
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
@@ -90,6 +90,12 @@ Cloud Pak, Maximo, SPSS
 WordPress InkScape
 
 ## Courses
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
+<img height="60" align="center" src="/images/skills-sticker.png">
+
+
+
+
 ### OpenLearn
 To view my Open University OpenLearn profile and acheivements please click [here](https://www.open.edu/openlearn/profiles/zv599976)
 <br>
