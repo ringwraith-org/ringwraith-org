@@ -11,6 +11,12 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 ## Connect
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/connect-sticker.png">
 
+<details>
+
+<summary>Details:</summary>
+
+</details>
+
 ## Memberships
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/thoughtful-sticker.png">
 
@@ -91,6 +97,9 @@ WordPress InkScape
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
 <img height="60" align="center" src="/images/skills-sticker.png">
 
+<details>
+
+<summary>Details:</summary>
 
 
 
@@ -155,4 +164,4 @@ My most recent badges:
 [![Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/2da07672-7b39-4de3-9668-d16ee48fc7cc/image.png)](http://www.credly.com/badges/945a4b1f-01f6-4147-b22a-6fee96a2a5b5 "Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data")
 [![Introduction to the Threat Landscape 1.0](https://images.credly.com/size/110x110/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png)](http://www.credly.com/badges/ebf10270-cc74-4cfa-9211-001a1da5c214 "Introduction to the Threat Landscape 1.0")
 <!--END_SECTION:badges-->
-
+</details>
