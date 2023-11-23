@@ -1,6 +1,6 @@
-<img align="centre" src="/images/image.jpeg">
+<img align="center" src="/images/image.jpeg">
 
-<img align="centre" src="/images/PM Circle.png" width="150">
+<img align="center" src="/images/PM Circle.png" width="150">
 
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <h1 align="center">Hi 👋, I'm Piers Margetts</h1> 
 
