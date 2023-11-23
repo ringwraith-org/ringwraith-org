@@ -2,7 +2,7 @@
 <br>
 
 <img align="center" src="/images/PM Circle.png" width="150">
-
+<br>
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <h1 align="center">Hi 👋, I'm Piers Margetts</h1> 
 
 <h3 align="center">Not your average IT geek!</h3>
