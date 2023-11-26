@@ -41,6 +41,8 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 [International Db2 Users Group](https://www.idug.org/home) (IDUG)
 <br>
 [Human Creator Alliance](https://humancreatoralliance.org/) (HCA)
+<br>
+[Cybernetics Society](https://cybsoc.org/)(CybS)
 
 </details>
 
