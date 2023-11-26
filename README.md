@@ -4,7 +4,7 @@
 <h3 align="center">Not your average IT geek!</h3>
 
 <p align="center">
-<img align="center" src="/images/PM Circle.png" width="150">
+<img src="/images/PM Circle.png" width="150">
 </p>
           
 I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to futher my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society.
