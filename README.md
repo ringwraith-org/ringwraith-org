@@ -1,19 +1,29 @@
-<img align="centre" src="/images/image.jpeg">
+<img align="center" src="/images/image.jpeg">
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <h1 align="center">Hi 👋, I'm Piers Margetts</h1> 
 
-<h3 align="center">Not your average IT geek!</h3>
 
-I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to futher my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society.
-I have a particular interest in Artificial Intelligence, Robotic Automation and Quantum Computing.
 
-My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down.
+<p align="center">
+<img src="/images/PM Circle.png" width="150">
+</p>
+<h3 align="center">Not your average IT geek!</h3>        
+I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to futher my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society. I have a particular interest in Artificial Intelligence, Robotic Process Automation and Quantum Computing. My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down.
 
 ## Connect
-<img height="60" align="centre" src="/images/fist_bump-sticker.png">
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" src="/images/connect-sticker.png">
+
+<details>
+
+<summary>Details:</summary>
+
+</details>
 
 ## Memberships
-<img height="60" align="centre" src="/images/thoughtful-sticker.png">
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/thoughtful-sticker.png">
 
+<details>
+
+<summary>Details:</summary>
 
 [Royal Society of Arts](https://www.thersa.org/) (RSA)
 <br>
@@ -28,59 +38,31 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 [International Db2 Users Group](https://www.idug.org/home) (IDUG)
 <br>
 [Human Creator Alliance](https://humancreatoralliance.org/) (HCA)
-
-## Operating Systems
-
-Windows 10, Windows 11, 
-
-### Deprecated Operating Systems
-Windows 3.1, Windows 95, Window 98, Windows ME, Windows 7 
-OS2
-IRIX
-
-
-## Languages
-
-<img height="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-          
-Python PHP Ruby R
-
 <br>
+[Cybernetics Society](https://cybsoc.org/)(CybS)
 
-## Libaries
+</details>
 
-React.js jQuery
+## Skills
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/ideas-sticker.png">
 
-## Frameworks
+<details>
 
-Hadoop
-Ruby on Rails
+<summary>Details:</summary>
 
-## Syntaxes
+</details>
 
-JSON
-
-## Tools
-<img height="40" alt="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
-
-Automation Tools = Apache Maven
-          
-<br>
-
-## Applications
-               
-<br>
- 
-### Microsoft
-Word Excel Powerpoint Access Visio Project Outlook
-### Adobe
-Photoshop Premier Illustrator Acrobat
-### IBM
-Cloud Pak, Maximo, SPSS
-### OpenSource
-WordPress InkScape
 
 ## Courses
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
+<img height="60" align="center" src="/images/skills-sticker.png">
+
+<details>
+
+<summary>Details:</summary>
+
+
+
 ### OpenLearn
 To view my Open University OpenLearn profile and acheivements please click [here](https://www.open.edu/openlearn/profiles/zv599976)
 <br>
@@ -142,4 +124,4 @@ My most recent badges:
 [![SKF100: Understanding the OWASP® Top 10 Security Threats](https://images.credly.com/size/110x110/images/64bd404e-d483-4d1b-868b-477ae700fef9/image.png)](http://www.credly.com/badges/01532d38-9261-4ba4-b781-a83cd0946e84 "SKF100: Understanding the OWASP® Top 10 Security Threats")
 [![IT Academy: Cloud and Virtualization Concepts](https://images.credly.com/size/110x110/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png)](http://www.credly.com/badges/57ba5216-795a-41ac-be3b-759be6baac32 "IT Academy: Cloud and Virtualization Concepts")
 <!--END_SECTION:badges-->
-
+</details>
