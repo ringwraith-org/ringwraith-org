@@ -13,7 +13,7 @@ I have a particular interest in Artificial Intelligence, Robotic Automation and 
 My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down.
 
 ## Connect
-<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"><p align="center"> <img height="60" src="/images/connect-sticker.png"></p>
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" src="/images/connect-sticker.png">
 
 <details>
 
@@ -48,54 +48,6 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 
 ## Operating Systems
 
-Windows 10, Windows 11, 
-
-### Deprecated Operating Systems
-Windows 3.1, Windows 95, Window 98, Windows ME, Windows 7 
-OS2
-IRIX
-
-
-## Languages
-
-<img height="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-          
-Python PHP Ruby R
-
-<br>
-
-## Libaries
-
-React.js jQuery
-
-## Frameworks
-
-Hadoop
-Ruby on Rails
-
-## Syntaxes
-
-JSON
-
-## Tools
-<img height="40" alt="Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
-
-Automation Tools = Apache Maven
-          
-<br>
-
-## Applications
-               
-<br>
- 
-### Microsoft
-Word Excel Powerpoint Access Visio Project Outlook
-### Adobe
-Photoshop Premier Illustrator Acrobat
-### IBM
-Cloud Pak, Maximo, SPSS
-### OpenSource
-WordPress InkScape
 
 ## Courses
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48">
