@@ -7,10 +7,7 @@
 <img src="/images/PM Circle.png" width="150">
 </p>
 <h3 align="center">Not your average IT geek!</h3>        
-I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to futher my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society.
-I have a particular interest in Artificial Intelligence, Robotic Process Automation and Quantum Computing.
-<br>
-My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down.
+I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to futher my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society. I have a particular interest in Artificial Intelligence, Robotic Process Automation and Quantum Computing. My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down.
 
 ## Connect
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" src="/images/connect-sticker.png">
@@ -46,9 +43,14 @@ My knowledge, skills and interests are deliberately eclectic and tend to follow 
 
 </details>
 
+## Skills
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/thoughtful-sticker.png">
 
+<details>
 
-## Operating Systems
+<summary>Details:</summary>
+
+</details>
 
 
 ## Courses
