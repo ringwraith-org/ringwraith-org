@@ -93,6 +93,13 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM Guardium Foundations](https://images.credly.com/size/110x110/images/cb053084-cce0-46e7-958c-5dd20ca90055/IBM_Guardium_Foundations.png)](http://www.credly.com/badges/c034bf7b-1600-4114-b2df-f30c2b17ca9a "IBM Guardium Foundations")
+[![Turbonomic Cloud Practitioner 8](https://images.credly.com/size/110x110/images/95d18f1d-e21a-4fe9-9410-c1ce26afc3b2/image.png)](http://www.credly.com/badges/3bbdb718-e901-49b4-bb9d-aacda19a9e12 "Turbonomic Cloud Practitioner 8")
+[![Cloud Pak for AIOps 4 Associate](https://images.credly.com/size/110x110/images/92ad5c47-ce4c-4cf0-98db-e71d06d7daf6/image.png)](http://www.credly.com/badges/3b561bc4-1a0e-46d4-8db6-a87eaa9e7eb7 "Cloud Pak for AIOps 4 Associate")
+[![Agentless Threat Emulation with AttackIQ Flex](https://images.credly.com/size/110x110/images/c2005241-a449-4110-a5b5-2aed979ad18d/image.png)](http://www.credly.com/badges/03c4ea5a-862a-4fd5-bf1e-ac737e5dbd0d "Agentless Threat Emulation with AttackIQ Flex")
+[![Foundations of Operationalizing MITRE ATT&CK v13](https://images.credly.com/size/110x110/images/bbed017a-ab77-4681-9079-b335d51b083e/image.png)](http://www.credly.com/badges/958629ee-8319-41d1-b324-bd35bf165393 "Foundations of Operationalizing MITRE ATT&CK v13")
+[![Unlocking the Power of CTI Blueprints](https://images.credly.com/size/110x110/images/5bd21797-0e09-4df4-9b89-5d4f83ad0aac/image.png)](http://www.credly.com/badges/c5e3d29e-46b7-443b-8f96-f8fc6f9c0736 "Unlocking the Power of CTI Blueprints")
+[![Secure Digital Transformation - Best Practices and Strategies](https://images.credly.com/size/110x110/images/eb4e49fc-4246-45bb-95dc-4bd55224f0da/image.png)](http://www.credly.com/badges/f03c02d0-6779-47e4-84ec-df21d8d86a08 "Secure Digital Transformation - Best Practices and Strategies")
 [![IBM Cloud for SAP Specialty Accelerator](https://images.credly.com/size/110x110/images/dde9de9f-b2c7-4775-afd1-ccf1fd60795f/image.png)](http://www.credly.com/badges/1095069e-3968-4c72-96f8-fd233087e9d0 "IBM Cloud for SAP Specialty Accelerator")
 [![IBM Aspera Console Administration](https://images.credly.com/size/110x110/images/e11cc013-3eed-4970-a94e-dcbc1395171a/image.png)](http://www.credly.com/badges/82ac3c8f-fe7c-4947-865e-e3f1be68f25b "IBM Aspera Console Administration")
 [![IBM Cloud Satellite Essentials](https://images.credly.com/size/110x110/images/83381f66-e16d-4eff-9ae0-32699d617b4c/image.png)](http://www.credly.com/badges/cb26392e-0805-4eab-8806-220f10b0ffef "IBM Cloud Satellite Essentials")
@@ -134,12 +141,5 @@ My most recent badges:
 [![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/110x110/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png)](http://www.credly.com/badges/9fd3e2e3-a0e6-43c8-ac7b-9bf772adc31e "LFQ101: Fundamentals of Quantum Computing")
 [![SKF100: Understanding the OWASP® Top 10 Security Threats](https://images.credly.com/size/110x110/images/64bd404e-d483-4d1b-868b-477ae700fef9/image.png)](http://www.credly.com/badges/01532d38-9261-4ba4-b781-a83cd0946e84 "SKF100: Understanding the OWASP® Top 10 Security Threats")
 [![IT Academy: Cloud and Virtualization Concepts](https://images.credly.com/size/110x110/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png)](http://www.credly.com/badges/57ba5216-795a-41ac-be3b-759be6baac32 "IT Academy: Cloud and Virtualization Concepts")
-[![IT Academy: Network Virtualization Concepts](https://images.credly.com/size/110x110/images/930cc3e4-8a2e-41ae-84b8-40fcf471f786/image.png)](http://www.credly.com/badges/9f966ceb-f218-48c9-be45-58d6e08605d6 "IT Academy: Network Virtualization Concepts")
-[![IT Academy: Software Defined Storage Concepts](https://images.credly.com/size/110x110/images/8402299b-f265-4a94-bfea-08fc925e7d0b/image.png)](http://www.credly.com/badges/af137031-c00e-477f-ad0f-83fc345d11c1 "IT Academy: Software Defined Storage Concepts")
-[![Quantum-Safe Encryption Essentials](https://images.credly.com/size/110x110/images/c3041175-4d80-4950-93d8-ddcab73369ee/image.png)](http://www.credly.com/badges/50a73d78-8f71-4e86-a46f-95f9dea117a6 "Quantum-Safe Encryption Essentials")
-[![IBM watsonx Foundations](https://images.credly.com/size/110x110/images/abe89eb9-1cea-4c04-a81c-024d8741299d/image.png)](http://www.credly.com/badges/95ce5f95-16c9-4bb9-bf83-0e9322a5699a "IBM watsonx Foundations")
-[![Creating Voice Interfaces with IBM Watson Speech to Text and Text to Speech Services](https://images.credly.com/size/110x110/images/f289ae45-306c-4eef-aade-43bd5911459c/image.png)](http://www.credly.com/badges/26cf4642-b808-4548-b7d4-09461fb9b992 "Creating Voice Interfaces with IBM Watson Speech to Text and Text to Speech Services")
-[![Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/2da07672-7b39-4de3-9668-d16ee48fc7cc/image.png)](http://www.credly.com/badges/945a4b1f-01f6-4147-b22a-6fee96a2a5b5 "Foundations of Data Governance with IBM Knowledge Catalog on IBM Cloud Pak for Data")
-[![Introduction to the Threat Landscape 1.0](https://images.credly.com/size/110x110/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png)](http://www.credly.com/badges/ebf10270-cc74-4cfa-9211-001a1da5c214 "Introduction to the Threat Landscape 1.0")
 <!--END_SECTION:badges-->
 
