@@ -44,7 +44,7 @@ I am a technology advocate and early adopter. I enjoy tinkering in my spare time
 </details>
 
 ## Skills
-<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/thoughtful-sticker.png">
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/ideas-sticker.png">
 
 <details>
 
