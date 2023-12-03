@@ -75,6 +75,11 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Cybersecurity Threat Intelligence](https://images.credly.com/size/110x110/images/3896405e-c7a7-4288-b5a1-e5d7be408f85/Cybersecurity_Threat_Intelligence_.png)](http://www.credly.com/badges/164be9c0-dd2c-49ea-9a36-9af3cf7df12d "Cybersecurity Threat Intelligence")
+[![IBM Aspera High-Speed Transfer Server Administration](https://images.credly.com/size/110x110/images/7558313c-3f06-4659-8b70-048fae041271/image.png)](http://www.credly.com/badges/1d9b971a-bad1-4966-8312-e63855ab20ab "IBM Aspera High-Speed Transfer Server Administration")
+[![IBM Process Mining - Tech Jam](https://images.credly.com/size/110x110/images/cfe78fea-35c0-4078-8fe6-89ac6a9e1dff/image.png)](http://www.credly.com/badges/b866c67b-352e-4388-aed7-d01fb7c5c956 "IBM Process Mining - Tech Jam")
+[![Deploying Containerized Applications on IBM Power](https://images.credly.com/size/110x110/images/197666fb-b290-4065-bf42-254550863f9b/image.png)](http://www.credly.com/badges/982a3e6f-e318-4394-af29-b6090b545e2d "Deploying Containerized Applications on IBM Power")
+[![IBM QRadar SIEM Foundation](https://images.credly.com/size/110x110/images/3bb214a4-fde9-4e3c-800c-2b055b60734c/IBM_QRadar_SIEM_Foundation.png)](http://www.credly.com/badges/3db0b666-ebae-434f-abc3-cdbba5989a33 "IBM QRadar SIEM Foundation")
 [![IBM Guardium Foundations](https://images.credly.com/size/110x110/images/cb053084-cce0-46e7-958c-5dd20ca90055/IBM_Guardium_Foundations.png)](http://www.credly.com/badges/c034bf7b-1600-4114-b2df-f30c2b17ca9a "IBM Guardium Foundations")
 [![Turbonomic Cloud Practitioner 8](https://images.credly.com/size/110x110/images/95d18f1d-e21a-4fe9-9410-c1ce26afc3b2/image.png)](http://www.credly.com/badges/3bbdb718-e901-49b4-bb9d-aacda19a9e12 "Turbonomic Cloud Practitioner 8")
 [![Cloud Pak for AIOps 4 Associate](https://images.credly.com/size/110x110/images/92ad5c47-ce4c-4cf0-98db-e71d06d7daf6/image.png)](http://www.credly.com/badges/3b561bc4-1a0e-46d4-8db6-a87eaa9e7eb7 "Cloud Pak for AIOps 4 Associate")
@@ -118,10 +123,5 @@ My most recent badges:
 [![LFEL1002: Getting Started with Rust](https://images.credly.com/size/110x110/images/7d81b7f6-785e-44b7-8be3-fdf95d153712/image.png)](http://www.credly.com/badges/fe35cd24-fee5-4414-b60d-06525eec27c2 "LFEL1002: Getting Started with Rust")
 [![LFEL1007: Automating Supply Chain Security: SBOMs and Signatures](https://images.credly.com/size/110x110/images/3ca1d92e-0ffb-49bd-ba51-7b680fcb0c35/image.png)](http://www.credly.com/badges/8b3633cd-a22e-4950-8a32-0da14e2a91b9 "LFEL1007: Automating Supply Chain Security: SBOMs and Signatures")
 [![LFD103: A Beginner's Guide to Linux Kernel Development](https://images.credly.com/size/110x110/images/43062c7b-bef9-48af-8a69-4c2a47b311ba/LF_logobadge.png)](http://www.credly.com/badges/58be4265-da68-4210-81eb-ec557d3a8b69 "LFD103: A Beginner's Guide to Linux Kernel Development")
-[![LFC103: Inclusive Strategies for Open Source](https://images.credly.com/size/110x110/images/efe84d8d-e7a9-48ee-81b4-2e0dd0e141fa/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/ab487fd5-233e-4e33-b24b-7a303e631965 "LFC103: Inclusive Strategies for Open Source")
-[![LFS145: Introduction to Protocol Buffers](https://images.credly.com/size/110x110/images/f9690b1b-e389-4956-97be-a425bb03cbaa/image.png)](http://www.credly.com/badges/880ccc93-aa81-4d4e-b769-9181d6494b0a "LFS145: Introduction to Protocol Buffers")
-[![LFQ101: Fundamentals of Quantum Computing](https://images.credly.com/size/110x110/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png)](http://www.credly.com/badges/9fd3e2e3-a0e6-43c8-ac7b-9bf772adc31e "LFQ101: Fundamentals of Quantum Computing")
-[![SKF100: Understanding the OWASP® Top 10 Security Threats](https://images.credly.com/size/110x110/images/64bd404e-d483-4d1b-868b-477ae700fef9/image.png)](http://www.credly.com/badges/01532d38-9261-4ba4-b781-a83cd0946e84 "SKF100: Understanding the OWASP® Top 10 Security Threats")
-[![IT Academy: Cloud and Virtualization Concepts](https://images.credly.com/size/110x110/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png)](http://www.credly.com/badges/57ba5216-795a-41ac-be3b-759be6baac32 "IT Academy: Cloud and Virtualization Concepts")
 <!--END_SECTION:badges-->
 </details>
