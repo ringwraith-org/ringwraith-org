@@ -75,6 +75,12 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM Z DevOps Testing Fundamentals](https://images.credly.com/size/110x110/images/33d81b89-a936-4497-a3de-adb263d8415d/image.png)](http://www.credly.com/badges/886798bf-d99c-4f32-accb-6f1612b91111 "IBM Z DevOps Testing Fundamentals")
+[![z/OS REXX Programming](https://images.credly.com/size/110x110/images/e14dc92e-c7c7-45b9-b669-88754a7b871a/z-OS_REXX_Programming.png)](http://www.credly.com/badges/1638c416-6fdc-44b6-97de-8ac66b9f57e9 "z/OS REXX Programming")
+[![MaaS360 Architect](https://images.credly.com/size/110x110/images/39a7195e-d522-476f-a51c-22f89fbc9b41/MaaS360_Architect_-_Foundational.png)](http://www.credly.com/badges/4d175f79-b545-4424-9d23-88d9675ed4cf "MaaS360 Architect")
+[![MaaS360 Help Desk Role](https://images.credly.com/size/110x110/images/9b81d7c9-46bb-4707-840d-ee7ab80400f9/MaaS360_Help_Desk_Role_-_Intermediate.png)](http://www.credly.com/badges/8529b243-7e5b-4887-a0f3-5c20778c277c "MaaS360 Help Desk Role")
+[![Dependency Based Build Fundamentals](https://images.credly.com/size/110x110/images/921828f1-1f35-4c50-a87c-23ef3598e31f/image.png)](http://www.credly.com/badges/938f8e67-f039-4b38-a6da-ee90ebce8705 "Dependency Based Build Fundamentals")
+[![Cyber Security and InfoSec](https://images.credly.com/size/110x110/images/a8666f76-5c61-48a3-9a23-c555695e5389/image.png)](http://www.credly.com/badges/584c9f09-78fc-468b-a4ce-f51828f959c2 "Cyber Security and InfoSec")
 [![Cybersecurity Threat Intelligence](https://images.credly.com/size/110x110/images/3896405e-c7a7-4288-b5a1-e5d7be408f85/Cybersecurity_Threat_Intelligence_.png)](http://www.credly.com/badges/164be9c0-dd2c-49ea-9a36-9af3cf7df12d "Cybersecurity Threat Intelligence")
 [![IBM Aspera High-Speed Transfer Server Administration](https://images.credly.com/size/110x110/images/7558313c-3f06-4659-8b70-048fae041271/image.png)](http://www.credly.com/badges/1d9b971a-bad1-4966-8312-e63855ab20ab "IBM Aspera High-Speed Transfer Server Administration")
 [![IBM Process Mining - Tech Jam](https://images.credly.com/size/110x110/images/cfe78fea-35c0-4078-8fe6-89ac6a9e1dff/image.png)](http://www.credly.com/badges/b866c67b-352e-4388-aed7-d01fb7c5c956 "IBM Process Mining - Tech Jam")
@@ -117,11 +123,5 @@ My most recent badges:
 [![LFQ102: Quantum Computing Essentials For Senior Leaders](https://images.credly.com/size/110x110/images/953dd23a-a065-4e8c-aadc-b8e7ef3b9f8e/image.png)](http://www.credly.com/badges/ef31bf2c-e7ca-4d25-b630-a98e69222fed "LFQ102: Quantum Computing Essentials For Senior Leaders")
 [![LFD102: A Beginner's Guide to Open Source Software Development](https://images.credly.com/size/110x110/images/8d609bdc-7aea-480d-9fc8-78485af20828/LF_logobadge.png)](http://www.credly.com/badges/40fde7d6-1b39-448a-9d0a-a7dba3ef7b5b "LFD102: A Beginner's Guide to Open Source Software Development")
 [![LFEL1006: Securing Projects with OpenSSF Scorecard](https://images.credly.com/size/110x110/images/af51d19f-dbac-46db-ad28-6fdab8048be1/image.png)](http://www.credly.com/badges/30bb63d3-b317-49d5-b4cc-7b6bde4472e7 "LFEL1006: Securing Projects with OpenSSF Scorecard")
-[![LFEL1003: Creating Edge IoT Solutions with EdgeX Foundry](https://images.credly.com/size/110x110/images/da21f449-682a-459a-9028-7947f6148446/image.png)](http://www.credly.com/badges/dc5ab758-b124-4c95-b69d-abbc69a8abad "LFEL1003: Creating Edge IoT Solutions with EdgeX Foundry")
-[![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/5426612d-4ded-4408-bfaa-dbe3210f9cf9/LF_logobadge.png)](http://www.credly.com/badges/d37eec72-4312-481e-9b87-33cbbbcc9537 "LFS169: Introduction to GitOps")
-[![LFC110: Fundamentals of Professional Open Source Management](https://images.credly.com/size/110x110/images/1719bbab-f97e-4160-9487-beaa0e0a28f5/Training_Badges_Master_osbestpractices.png)](http://www.credly.com/badges/85732267-5db1-4585-90fc-e39e980e6b91 "LFC110: Fundamentals of Professional Open Source Management")
-[![LFEL1002: Getting Started with Rust](https://images.credly.com/size/110x110/images/7d81b7f6-785e-44b7-8be3-fdf95d153712/image.png)](http://www.credly.com/badges/fe35cd24-fee5-4414-b60d-06525eec27c2 "LFEL1002: Getting Started with Rust")
-[![LFEL1007: Automating Supply Chain Security: SBOMs and Signatures](https://images.credly.com/size/110x110/images/3ca1d92e-0ffb-49bd-ba51-7b680fcb0c35/image.png)](http://www.credly.com/badges/8b3633cd-a22e-4950-8a32-0da14e2a91b9 "LFEL1007: Automating Supply Chain Security: SBOMs and Signatures")
-[![LFD103: A Beginner's Guide to Linux Kernel Development](https://images.credly.com/size/110x110/images/43062c7b-bef9-48af-8a69-4c2a47b311ba/LF_logobadge.png)](http://www.credly.com/badges/58be4265-da68-4210-81eb-ec557d3a8b69 "LFD103: A Beginner's Guide to Linux Kernel Development")
 <!--END_SECTION:badges-->
 </details>
