@@ -1,5 +1,5 @@
 <img align="center" src="/images/image.jpeg">
-<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <h1 align="center">Dydh da 👋,ow hanow Piers Margetts</h1> 
+<img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <h1 align="center">👋 Dydh da ow hanow Piers Margetts</h1> 
 
 
 
