@@ -41,7 +41,8 @@ Please find below detail of groups and organizations I am part of or have an int
 [Human Creator Alliance](https://humancreatoralliance.org/) (HCA)
 <br>
 [Cybernetics Society](https://cybsoc.org/)(CybS)
-
+<br>
+[Rexx Language Association](https://www.rexxla.org/) (RexxLA)
 </details>
 
 ## Skills
