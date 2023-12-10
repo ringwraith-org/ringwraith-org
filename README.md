@@ -21,6 +21,7 @@ I am a technology advocate and early adopter. I enjoy tinkering in my spare time
 ## Memberships
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <img height="60" align="center" src="/images/thoughtful-sticker.png">
 
+Please find below detail of groups and organizations I am part of or have an interest in:
 <details>
 
 <summary>Details:</summary>
