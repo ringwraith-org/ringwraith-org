@@ -83,6 +83,9 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM Planning Analytics V2.0.x Administration](https://images.credly.com/size/110x110/images/c97de336-1097-4061-86e9-381a0f8f51e6/image.png)](http://www.credly.com/badges/b04a2b2f-b9a2-4f34-8509-b1a409922e94 "IBM Planning Analytics V2.0.x Administration")
+[![Practical Introduction to Quantum-Safe Cryptography](https://images.credly.com/size/110x110/images/53629652-f0f2-4bc8-abfd-444c366d3cf6/image.png)](http://www.credly.com/badges/3e0584fd-a77d-4736-8409-3f94ccc0f583 "Practical Introduction to Quantum-Safe Cryptography")
+[![Basics of Quantum Information](https://images.credly.com/size/110x110/images/60cbe993-f35f-4b98-b7f6-8cd51233fe2a/image.png)](http://www.credly.com/badges/079fcacb-e855-441e-8fa4-ad9550ba5651 "Basics of Quantum Information")
 [![IMS Transaction Manager Application Programming](https://images.credly.com/size/110x110/images/b62a2ded-ae52-4402-98b6-6ee90c461a0b/image.png)](http://www.credly.com/badges/9496d837-7da1-4911-bfe7-fdbb28e52762 "IMS Transaction Manager Application Programming")
 [![IMS Database Fundamentals](https://images.credly.com/size/110x110/images/368c064b-04f2-430f-8048-907a268d918e/image.png)](http://www.credly.com/badges/25cd8f77-d3cb-4fb6-b4a2-a6edac82925e "IMS Database Fundamentals")
 [![IMS Fundamentals](https://images.credly.com/size/110x110/images/30922a3d-fc08-4507-bf70-e62a082e05e8/image.png)](http://www.credly.com/badges/8de45e8d-1dd8-4d07-8817-64683704afcb "IMS Fundamentals")
@@ -128,8 +131,5 @@ My most recent badges:
 [![Explore Fashion Functions and Business Processes in SAP S/4HANA for Fashion and Vertical Business - Record of Achievement](https://images.credly.com/size/110x110/images/1c25e944-a82a-4d2e-a186-5d236d178cef/image.png)](http://www.credly.com/badges/e983dd3b-28bc-4842-b518-90876ef630ca "Explore Fashion Functions and Business Processes in SAP S/4HANA for Fashion and Vertical Business - Record of Achievement")
 [![Discovering DevOps with SAP BTP - Record of Achievement](https://images.credly.com/size/110x110/images/28ea48f6-2e75-4cf6-bf04-8660256d0aaa/image.png)](http://www.credly.com/badges/3bee62c4-bd35-4b97-9169-bcd511ecebed "Discovering DevOps with SAP BTP - Record of Achievement")
 [![Introducing SAP S/4HANA Cloud for Group Reporting - Record of Achievement](https://images.credly.com/size/110x110/images/c84f868b-1c5a-4e25-a6e7-34f5d3cf9db0/image.png)](http://www.credly.com/badges/222fabb6-00d0-4fc0-b0f6-b68e50312a79 "Introducing SAP S/4HANA Cloud for Group Reporting - Record of Achievement")
-[![Administering Sustainability Control Tower - Record of Achievement](https://images.credly.com/size/110x110/images/791f3baf-5e8b-4695-8060-e5dfee9e50a7/image.png)](http://www.credly.com/badges/b692195b-2e04-45dd-a139-7ad0a7d721cd "Administering Sustainability Control Tower - Record of Achievement")
-[![Discovering SAP Digital Manufacturing - Record of Achievement](https://images.credly.com/size/110x110/images/351833ba-0f86-47b2-84a0-fd5561c7f687/image.png)](http://www.credly.com/badges/95341f12-2ca5-4abe-92b6-18a7b982cfcb "Discovering SAP Digital Manufacturing - Record of Achievement")
-[![Discovering SAP Integration Suite - Managed Gateway for spend Management and SAP Business Network - Record of Achievement](https://images.credly.com/size/110x110/images/2f59a775-b4b6-497b-bb35-1af936c556a5/image.png)](http://www.credly.com/badges/83766925-8cba-4ab6-aa51-07d012011231 "Discovering SAP Integration Suite - Managed Gateway for spend Management and SAP Business Network - Record of Achievement")
 <!--END_SECTION:badges-->
 </details>
