@@ -83,6 +83,9 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Automatic Binary Optimizer for z/OS Essentials V2](https://images.credly.com/size/110x110/images/31d5e977-0664-47a4-a21e-11b7f2f10b1f/image.png)](http://www.credly.com/badges/8303e554-4022-4630-bce0-04188f53b567 "Automatic Binary Optimizer for z/OS Essentials V2")
+[![IBM Automation Document Processing Tech Jam](https://images.credly.com/size/110x110/images/40f6086c-637f-4aee-929e-021acfc0736a/image.png)](http://www.credly.com/badges/6d851be2-6c97-49b5-ad78-6b2b9d1e6ffb "IBM Automation Document Processing Tech Jam")
+[![Attack Flows v2: How to Model and Sequence Attacks](https://images.credly.com/size/110x110/images/7c65e33e-e4f7-41cf-bb2d-04372b4d5a17/image.png)](http://www.credly.com/badges/5c389c79-0d1f-4f1a-8ca7-2f2d33513e9b "Attack Flows v2: How to Model and Sequence Attacks")
 [![Technical Introduction to Cybersecurity 1.0](https://images.credly.com/size/110x110/images/38484a57-5b41-4411-aaf3-63030da63993/image.png)](http://www.credly.com/badges/f98a6eed-915b-46e9-a1b3-f47961410094 "Technical Introduction to Cybersecurity 1.0")
 [![IBM Robotic Process Automation - Tech Jam](https://images.credly.com/size/110x110/images/20c3af2c-2f43-48b4-9a6c-b33db1401032/image.png)](http://www.credly.com/badges/4b069f6c-fae2-4b0a-8f07-e79ae39522a1 "IBM Robotic Process Automation - Tech Jam")
 [![Data Science for Business - Level 2](https://images.credly.com/size/110x110/images/fcfe3eb4-19f2-47f5-af31-1f33b659d6ed/Data_Sci_Business_Level_2_-_CC_-_2019.png)](http://www.credly.com/badges/c813f898-e956-4fb8-b7e5-c344282ffcbd "Data Science for Business - Level 2")
@@ -128,8 +131,5 @@ My most recent badges:
 [![IBM Aspera Console Administration](https://images.credly.com/size/110x110/images/e11cc013-3eed-4970-a94e-dcbc1395171a/image.png)](http://www.credly.com/badges/82ac3c8f-fe7c-4947-865e-e3f1be68f25b "IBM Aspera Console Administration")
 [![IBM Cloud Satellite Essentials](https://images.credly.com/size/110x110/images/83381f66-e16d-4eff-9ae0-32699d617b4c/image.png)](http://www.credly.com/badges/cb26392e-0805-4eab-8806-220f10b0ffef "IBM Cloud Satellite Essentials")
 [![Introduction to Data Fabric with IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/3507270c-4750-4e6f-91f3-94037d616d5b/image.png)](http://www.credly.com/badges/9b4d7bc7-ddc1-4201-8aed-6587ae237d3f "Introduction to Data Fabric with IBM Cloud Pak for Data")
-[![Fellow - FInstCPD](https://images.credly.com/size/110x110/images/7c82ea0f-11d1-4338-a4a0-f56ab9670a93/FInst.png)](http://www.credly.com/badges/5ff91706-935f-44b3-bf13-caecab24ab5d "Fellow - FInstCPD")
-[![IBM Business Automation Application - Tech Jam](https://images.credly.com/size/110x110/images/be661b3f-e44b-4391-8f3a-76478416cf70/image.png)](http://www.credly.com/badges/abcaaa6c-8c19-4933-ac4d-ea9ce6adda57 "IBM Business Automation Application - Tech Jam")
-[![IBM Cloud Pak for Business Automation - Tech Jam](https://images.credly.com/size/110x110/images/9d2f19d9-cad4-4d53-83b8-d6f86e30eae4/image.png)](http://www.credly.com/badges/0547c13d-17ff-4d10-81e2-88fa186ae6f6 "IBM Cloud Pak for Business Automation - Tech Jam")
 <!--END_SECTION:badges-->
 </details>
