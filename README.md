@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="/images/PM Circle.png" width="150">
+<img src="/images/PM Circle.png" width="150"></p></br>
 <align="center">Piers Margetts</align>
   <h2 align="center"__>FRSA FInstCPD MRi MBCS ALS</h2>
 <h3 align="center">Not your average IT geek!</h3>        
