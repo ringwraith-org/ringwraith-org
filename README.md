@@ -84,6 +84,10 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Introduction to the PL/I Programming Language](https://images.credly.com/size/110x110/images/c2f2afd2-672b-4bab-be9d-34250587a53a/Intro_20to_20the_20PL_20I_20Programming_20Language.png)](http://www.credly.com/badges/b03a43c5-2bce-493e-8d1a-26a47e0c6242 "Introduction to the PL/I Programming Language")
+[![IMS System Programming: Database and Transaction Management](https://images.credly.com/size/110x110/images/9c763355-cf49-44b5-ba70-fcef86f09430/image.png)](http://www.credly.com/badges/4dd94716-cf9f-446e-87c0-06c0ebe58baf "IMS System Programming: Database and Transaction Management")
+[![IMS Database Recovery Control (DBRC)](https://images.credly.com/size/110x110/images/6d8d1302-9500-4d0e-b54c-3003b0f7618c/image.png)](http://www.credly.com/badges/a5a620a2-bca6-4197-b59a-832d9a26d0a8 "IMS Database Recovery Control (DBRC)")
+[![IBM Business Automation Workflow - Tech Jam](https://images.credly.com/size/110x110/images/c199e284-0374-4e69-a3c2-b6cba93e7d9b/image.png)](http://www.credly.com/badges/898bf2b5-be44-47a0-a21f-d5836ffe9440 "IBM Business Automation Workflow - Tech Jam")
 [![Automatic Binary Optimizer for z/OS Essentials V2](https://images.credly.com/size/110x110/images/31d5e977-0664-47a4-a21e-11b7f2f10b1f/image.png)](http://www.credly.com/badges/8303e554-4022-4630-bce0-04188f53b567 "Automatic Binary Optimizer for z/OS Essentials V2")
 [![IBM Automation Document Processing Tech Jam](https://images.credly.com/size/110x110/images/40f6086c-637f-4aee-929e-021acfc0736a/image.png)](http://www.credly.com/badges/6d851be2-6c97-49b5-ad78-6b2b9d1e6ffb "IBM Automation Document Processing Tech Jam")
 [![Attack Flows v2: How to Model and Sequence Attacks](https://images.credly.com/size/110x110/images/7c65e33e-e4f7-41cf-bb2d-04372b4d5a17/image.png)](http://www.credly.com/badges/5c389c79-0d1f-4f1a-8ca7-2f2d33513e9b "Attack Flows v2: How to Model and Sequence Attacks")
@@ -128,9 +132,5 @@ My most recent badges:
 [![Foundations of Operationalizing MITRE ATT&CK v13](https://images.credly.com/size/110x110/images/bbed017a-ab77-4681-9079-b335d51b083e/image.png)](http://www.credly.com/badges/958629ee-8319-41d1-b324-bd35bf165393 "Foundations of Operationalizing MITRE ATT&CK v13")
 [![Unlocking the Power of CTI Blueprints](https://images.credly.com/size/110x110/images/5bd21797-0e09-4df4-9b89-5d4f83ad0aac/image.png)](http://www.credly.com/badges/c5e3d29e-46b7-443b-8f96-f8fc6f9c0736 "Unlocking the Power of CTI Blueprints")
 [![Secure Digital Transformation - Best Practices and Strategies](https://images.credly.com/size/110x110/images/eb4e49fc-4246-45bb-95dc-4bd55224f0da/image.png)](http://www.credly.com/badges/f03c02d0-6779-47e4-84ec-df21d8d86a08 "Secure Digital Transformation - Best Practices and Strategies")
-[![IBM Cloud for SAP Specialty Accelerator](https://images.credly.com/size/110x110/images/dde9de9f-b2c7-4775-afd1-ccf1fd60795f/image.png)](http://www.credly.com/badges/1095069e-3968-4c72-96f8-fd233087e9d0 "IBM Cloud for SAP Specialty Accelerator")
-[![IBM Aspera Console Administration](https://images.credly.com/size/110x110/images/e11cc013-3eed-4970-a94e-dcbc1395171a/image.png)](http://www.credly.com/badges/82ac3c8f-fe7c-4947-865e-e3f1be68f25b "IBM Aspera Console Administration")
-[![IBM Cloud Satellite Essentials](https://images.credly.com/size/110x110/images/83381f66-e16d-4eff-9ae0-32699d617b4c/image.png)](http://www.credly.com/badges/cb26392e-0805-4eab-8806-220f10b0ffef "IBM Cloud Satellite Essentials")
-[![Introduction to Data Fabric with IBM Cloud Pak for Data](https://images.credly.com/size/110x110/images/3507270c-4750-4e6f-91f3-94037d616d5b/image.png)](http://www.credly.com/badges/9b4d7bc7-ddc1-4201-8aed-6587ae237d3f "Introduction to Data Fabric with IBM Cloud Pak for Data")
 <!--END_SECTION:badges-->
 </details>
