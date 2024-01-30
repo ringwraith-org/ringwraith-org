@@ -1,10 +1,7 @@
 <img align="center" src="/images/image.jpeg">
 <img align="left" src="/images/Flag - St Piran.svg" width="48"><img align="right" src="/images/Flag - St Piran.svg" width="48"> <h1 align="center">👋 Dydh da ow hanow yw Piers Margetts</h1> 
-
-
-
 <p align="center">
-<img src="/images/PM Circle.png" width="150"></p></br>
+<img src="/images/PM Circle.png" width="150"></p>
 <h1 align="center">Piers Margetts</h1>
   <h2 align="center">FRSA FInstCPD MRi MBCS ALS</h2>
 <h3 align="center">Not your average IT geek!</h3>        
