@@ -81,6 +81,8 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Robots are coming! Build IoT apps with Watson AI, Swift, and Node-RED](https://images.credly.com/size/110x110/images/04643f18-f39a-40b5-b769-82a08d826deb/Building_IoT_Applications_Swift_-_NodeRed_-_IDSN.png)](http://www.credly.com/badges/13cde84e-8012-4cdf-9123-2b10eb9514bb "Robots are coming! Build IoT apps with Watson AI, Swift, and Node-RED")
+[![IMS High Availabiity Large Database (HALDB)](https://images.credly.com/size/110x110/images/af1c18cb-8cfa-4af2-9aaf-41e6ce0c4a91/image.png)](http://www.credly.com/badges/7f75f27a-0b57-420b-a07e-1a9740f1ceb0 "IMS High Availabiity Large Database (HALDB)")
 [![Introduction to the PL/I Programming Language](https://images.credly.com/size/110x110/images/c2f2afd2-672b-4bab-be9d-34250587a53a/Intro_20to_20the_20PL_20I_20Programming_20Language.png)](http://www.credly.com/badges/b03a43c5-2bce-493e-8d1a-26a47e0c6242 "Introduction to the PL/I Programming Language")
 [![IMS System Programming: Database and Transaction Management](https://images.credly.com/size/110x110/images/9c763355-cf49-44b5-ba70-fcef86f09430/image.png)](http://www.credly.com/badges/4dd94716-cf9f-446e-87c0-06c0ebe58baf "IMS System Programming: Database and Transaction Management")
 [![IMS Database Recovery Control (DBRC)](https://images.credly.com/size/110x110/images/6d8d1302-9500-4d0e-b54c-3003b0f7618c/image.png)](http://www.credly.com/badges/a5a620a2-bca6-4197-b59a-832d9a26d0a8 "IMS Database Recovery Control (DBRC)")
@@ -112,7 +114,7 @@ My most recent badges:
 [![Cloud Pak for AIOps 4 Administrator](https://images.credly.com/size/110x110/images/8ca1aaff-fe2c-4e04-a49a-fb9aea5c5cb8/image.png)](http://www.credly.com/badges/1b9666c3-5ae6-4faf-be03-bbf05547c574 "Cloud Pak for AIOps 4 Administrator")
 [![IBM Cloud Security Engineer Essentials](https://images.credly.com/size/110x110/images/859227a3-9523-4773-9888-1ba03d70095b/image.png)](http://www.credly.com/badges/44ee60af-644c-4e64-9c85-cebaf13148ef "IBM Cloud Security Engineer Essentials")
 [![IBM Z DevOps Testing Fundamentals](https://images.credly.com/size/110x110/images/33d81b89-a936-4497-a3de-adb263d8415d/image.png)](http://www.credly.com/badges/886798bf-d99c-4f32-accb-6f1612b91111 "IBM Z DevOps Testing Fundamentals")
-[![z/OS REXX Programming](https://images.credly.com/size/110x110/images/e14dc92e-c7c7-45b9-b669-88754a7b871a/z-OS_REXX_Programming.png)](http://www.credly.com/badges/1638c416-6fdc-44b6-97de-8ac66b9f57e9 "z/OS REXX Programming")
+[![z/OS REXX Programming](https://images.credly.com/size/110x110/images/6443b0e2-360a-45e2-be3b-134011e18c2a/image.png)](http://www.credly.com/badges/1638c416-6fdc-44b6-97de-8ac66b9f57e9 "z/OS REXX Programming")
 [![MaaS360 Architect](https://images.credly.com/size/110x110/images/28970632-0267-4f20-a8f0-9a4d2b80b44b/image.png)](http://www.credly.com/badges/4d175f79-b545-4424-9d23-88d9675ed4cf "MaaS360 Architect")
 [![MaaS360 Help Desk Role](https://images.credly.com/size/110x110/images/dc77e098-f4c1-46dc-9459-fc81e7d984a4/image.png)](http://www.credly.com/badges/8529b243-7e5b-4887-a0f3-5c20778c277c "MaaS360 Help Desk Role")
 [![Dependency Based Build Fundamentals](https://images.credly.com/size/110x110/images/921828f1-1f35-4c50-a87c-23ef3598e31f/image.png)](http://www.credly.com/badges/938f8e67-f039-4b38-a6da-ee90ebce8705 "Dependency Based Build Fundamentals")
@@ -123,11 +125,9 @@ My most recent badges:
 [![Deploying Containerized Applications on IBM Power](https://images.credly.com/size/110x110/images/197666fb-b290-4065-bf42-254550863f9b/image.png)](http://www.credly.com/badges/982a3e6f-e318-4394-af29-b6090b545e2d "Deploying Containerized Applications on IBM Power")
 [![IBM QRadar SIEM Foundation](https://images.credly.com/size/110x110/images/066da2d7-4808-4f43-a1b9-f32f13872084/image.png)](http://www.credly.com/badges/3db0b666-ebae-434f-abc3-cdbba5989a33 "IBM QRadar SIEM Foundation")
 [![IBM Guardium Foundations](https://images.credly.com/size/110x110/images/9da13c77-c2f3-4d43-a0ab-768e08f8bf86/image.png)](http://www.credly.com/badges/c034bf7b-1600-4114-b2df-f30c2b17ca9a "IBM Guardium Foundations")
-[![Turbonomic Cloud Practitioner 8](https://images.credly.com/size/110x110/images/95d18f1d-e21a-4fe9-9410-c1ce26afc3b2/image.png)](http://www.credly.com/badges/3bbdb718-e901-49b4-bb9d-aacda19a9e12 "Turbonomic Cloud Practitioner 8")
+[![Turbonomic Cloud Practitioner 8](https://images.credly.com/size/110x110/images/6ef641c8-3cc7-433f-8308-5922463afa6a/image.png)](http://www.credly.com/badges/3bbdb718-e901-49b4-bb9d-aacda19a9e12 "Turbonomic Cloud Practitioner 8")
 [![Cloud Pak for AIOps 4 Associate](https://images.credly.com/size/110x110/images/92ad5c47-ce4c-4cf0-98db-e71d06d7daf6/image.png)](http://www.credly.com/badges/3b561bc4-1a0e-46d4-8db6-a87eaa9e7eb7 "Cloud Pak for AIOps 4 Associate")
 [![Agentless Threat Emulation with AttackIQ Flex](https://images.credly.com/size/110x110/images/c2005241-a449-4110-a5b5-2aed979ad18d/image.png)](http://www.credly.com/badges/03c4ea5a-862a-4fd5-bf1e-ac737e5dbd0d "Agentless Threat Emulation with AttackIQ Flex")
 [![Foundations of Operationalizing MITRE ATT&CK v13](https://images.credly.com/size/110x110/images/bbed017a-ab77-4681-9079-b335d51b083e/image.png)](http://www.credly.com/badges/958629ee-8319-41d1-b324-bd35bf165393 "Foundations of Operationalizing MITRE ATT&CK v13")
-[![Unlocking the Power of CTI Blueprints](https://images.credly.com/size/110x110/images/5bd21797-0e09-4df4-9b89-5d4f83ad0aac/image.png)](http://www.credly.com/badges/c5e3d29e-46b7-443b-8f96-f8fc6f9c0736 "Unlocking the Power of CTI Blueprints")
-[![Secure Digital Transformation - Best Practices and Strategies](https://images.credly.com/size/110x110/images/eb4e49fc-4246-45bb-95dc-4bd55224f0da/image.png)](http://www.credly.com/badges/f03c02d0-6779-47e4-84ec-df21d8d86a08 "Secure Digital Transformation - Best Practices and Strategies")
 <!--END_SECTION:badges-->
 </details>
