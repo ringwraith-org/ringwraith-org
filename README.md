@@ -4,7 +4,7 @@
 <img src="/images/PM Circle.png" width="150"></p>
 <h2 align="center">Piers Margetts<br>
 <h3 align="center">Not your average IT geek!</h3>        
-I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to further my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society. I have a particular interest in Artificial Intelligence, Robotic Process Automation and Quantum Computing. <br><br>
+I am a technology advocate and early adopter. I enjoy tinkering in my spare time, learning about new technologies to further my understanding of the art of the possible and how technologies can be used to drive positive change, both in my workplace and also in society. I have a particular interest in Main Frames, Artificial Intelligence, Robotic Process Automation and Quantum Computing. <br><br>
 My knowledge, skills and interests are deliberately eclectic and tend to follow the various rabbit holes I find myself going down. <br><br>
 
 Professionally I am an expert in Data Protection, Information Governance, Records Management, Complaints Management, Systems Implementations, Project and Change Management and Enterprise Payrolls. I have experience in both the Health and Education sectors and am currently working in the NHS as a Senior Project Manager within Digital Services.
