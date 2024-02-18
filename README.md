@@ -80,6 +80,12 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![z/Architecture Assembler Language - Part 2: Machine Instructions](https://images.credly.com/size/110x110/images/a77edd97-b8f9-4b6b-8a05-8f28f7b3ab92/image.png)](http://www.credly.com/badges/42f85367-2241-4a97-82ad-92c0babed3c2 "z/Architecture Assembler Language - Part 2: Machine Instructions")
+[![Fundamentals of Agile Project Management](https://images.credly.com/size/110x110/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png)](http://www.credly.com/badges/317f84c3-a333-4b9f-856e-e456aab7d429 "Fundamentals of Agile Project Management")
+[![Fundamentals of Predictive Project Management](https://images.credly.com/size/110x110/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png)](http://www.credly.com/badges/09f5bd2c-ad01-4264-8fe3-4f66c61ad03a "Fundamentals of Predictive Project Management")
+[![Generative AI Overview for Project Managers](https://images.credly.com/size/110x110/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png)](http://www.credly.com/badges/2bddcb3a-feaf-4c97-8bce-d79ca493c7dc "Generative AI Overview for Project Managers")
+[![IBM Process Mining - Business Analyst - Intermediate](https://images.credly.com/size/110x110/images/6172f032-be56-4e42-a454-7151b38e993e/image.png)](http://www.credly.com/badges/3c8ee98f-a221-4507-baad-1d2fd802d12f "IBM Process Mining - Business Analyst - Intermediate")
+[![Maximo Application Suite Introduction 2024](https://images.credly.com/size/110x110/images/63d30c6d-6947-4d2d-9188-b1485ed43033/Maximo_20Application_20Suite_20Introduction_202024.png)](http://www.credly.com/badges/3db1350e-431c-4ecf-ab4c-a808dd6e9d0b "Maximo Application Suite Introduction 2024")
 [![IBM Planning Analytics for Microsoft Excel V2.0.x Analyze Data](https://images.credly.com/size/110x110/images/e55fe04c-ff44-45bd-9eb9-6ce1011176e9/image.png)](http://www.credly.com/badges/76d14a56-8072-4b47-b874-d9aecb1f2507 "IBM Planning Analytics for Microsoft Excel V2.0.x Analyze Data")
 [![IMS Database Application Programming](https://images.credly.com/size/110x110/images/80907529-1762-4539-a212-018ef9dee81f/image.png)](http://www.credly.com/badges/037f78f5-4a5a-4745-8aee-c34a2a8e1d3e "IMS Database Application Programming")
 [![IMS Fast Path Implementation](https://images.credly.com/size/110x110/images/a25cb3f7-783c-4003-9efc-4624fe9873c2/image.png)](http://www.credly.com/badges/cf77a34f-32dd-435b-a8d7-f86ffa5a1a37 "IMS Fast Path Implementation")
@@ -122,11 +128,5 @@ My most recent badges:
 [![IBM Cloud Security Engineer Essentials](https://images.credly.com/size/110x110/images/859227a3-9523-4773-9888-1ba03d70095b/image.png)](http://www.credly.com/badges/44ee60af-644c-4e64-9c85-cebaf13148ef "IBM Cloud Security Engineer Essentials")
 [![IBM Z DevOps Testing Fundamentals](https://images.credly.com/size/110x110/images/33d81b89-a936-4497-a3de-adb263d8415d/image.png)](http://www.credly.com/badges/886798bf-d99c-4f32-accb-6f1612b91111 "IBM Z DevOps Testing Fundamentals")
 [![z/OS REXX Programming](https://images.credly.com/size/110x110/images/6443b0e2-360a-45e2-be3b-134011e18c2a/image.png)](http://www.credly.com/badges/1638c416-6fdc-44b6-97de-8ac66b9f57e9 "z/OS REXX Programming")
-[![MaaS360 Architect](https://images.credly.com/size/110x110/images/28970632-0267-4f20-a8f0-9a4d2b80b44b/image.png)](http://www.credly.com/badges/4d175f79-b545-4424-9d23-88d9675ed4cf "MaaS360 Architect")
-[![MaaS360 Help Desk Role](https://images.credly.com/size/110x110/images/dc77e098-f4c1-46dc-9459-fc81e7d984a4/image.png)](http://www.credly.com/badges/8529b243-7e5b-4887-a0f3-5c20778c277c "MaaS360 Help Desk Role")
-[![Dependency Based Build Fundamentals](https://images.credly.com/size/110x110/images/921828f1-1f35-4c50-a87c-23ef3598e31f/image.png)](http://www.credly.com/badges/938f8e67-f039-4b38-a6da-ee90ebce8705 "Dependency Based Build Fundamentals")
-[![Cyber Security and InfoSec](https://images.credly.com/size/110x110/images/a8666f76-5c61-48a3-9a23-c555695e5389/image.png)](http://www.credly.com/badges/584c9f09-78fc-468b-a4ce-f51828f959c2 "Cyber Security and InfoSec")
-[![Cybersecurity Threat Intelligence](https://images.credly.com/size/110x110/images/45c20fa0-a403-4a56-9792-1aeecc84c9cf/image.png)](http://www.credly.com/badges/164be9c0-dd2c-49ea-9a36-9af3cf7df12d "Cybersecurity Threat Intelligence")
-[![IBM Aspera High-Speed Transfer Server Administration](https://images.credly.com/size/110x110/images/7558313c-3f06-4659-8b70-048fae041271/image.png)](http://www.credly.com/badges/1d9b971a-bad1-4966-8312-e63855ab20ab "IBM Aspera High-Speed Transfer Server Administration")
 <!--END_SECTION:badges-->
 </details>
