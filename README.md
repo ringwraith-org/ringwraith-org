@@ -80,6 +80,10 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Getting Started with SAS and Kubernetes](https://images.credly.com/size/110x110/images/7a75e853-0c2f-4c40-817c-f3360ee34131/image.png)](http://www.credly.com/badges/4169c7a3-3ce7-4471-806a-4276d4ef3f37 "Getting Started with SAS and Kubernetes")
+[![Data Literacy in Practice](https://images.credly.com/size/110x110/images/faaa1826-703f-4df8-9db9-4d297927f8fd/168058-badges-Learn-DataLiteracy.png)](http://www.credly.com/badges/30692e90-9570-4d16-bae9-c561e34d6010 "Data Literacy in Practice")
+[![IBM CLM® for SAFe® - Level 1](https://images.credly.com/size/110x110/images/ec58ffe5-e04f-49a9-bcd8-1aeb09bc91f9/IBM_CLM_for_SAFe_L1_Bronze.png)](http://www.credly.com/badges/35a755d0-3988-4104-92ea-84962c9efa8c "IBM CLM® for SAFe® - Level 1")
+[![Neuro-Symbolic AI Essentials](https://images.credly.com/size/110x110/images/4f2fd557-268e-4b82-bab9-14b46989fde9/image.png)](http://www.credly.com/badges/9cc2a515-2aba-4b1b-be5b-1bbb5720766a "Neuro-Symbolic AI Essentials")
 [![z/Architecture Assembler Language - Part 2: Machine Instructions](https://images.credly.com/size/110x110/images/a77edd97-b8f9-4b6b-8a05-8f28f7b3ab92/image.png)](http://www.credly.com/badges/42f85367-2241-4a97-82ad-92c0babed3c2 "z/Architecture Assembler Language - Part 2: Machine Instructions")
 [![Fundamentals of Agile Project Management](https://images.credly.com/size/110x110/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png)](http://www.credly.com/badges/317f84c3-a333-4b9f-856e-e456aab7d429 "Fundamentals of Agile Project Management")
 [![Fundamentals of Predictive Project Management](https://images.credly.com/size/110x110/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png)](http://www.credly.com/badges/09f5bd2c-ad01-4264-8fe3-4f66c61ad03a "Fundamentals of Predictive Project Management")
@@ -124,9 +128,5 @@ My most recent badges:
 [![LFD137: Open Source Contribution in Finance](https://images.credly.com/size/110x110/images/9c49bb20-022e-4f2d-aa51-50be62e05745/image.png)](http://www.credly.com/badges/f3b75827-05f8-40f5-92b3-e440678eb349 "LFD137: Open Source Contribution in Finance")
 [![LFC111: Open Source Technical Documentation Essentials](https://images.credly.com/size/110x110/images/2716319d-5a73-4d79-b1ae-6fa1b3d1c9db/image.png)](http://www.credly.com/badges/04151014-fefd-4443-9a78-1f46d6df32bf "LFC111: Open Source Technical Documentation Essentials")
 [![LFC112: Creating Effective Documentation for Developers](https://images.credly.com/size/110x110/images/bd988b9c-2bfa-4cd8-9216-d0f86bf4560a/image.png)](http://www.credly.com/badges/03d99270-45cd-4f09-ab4f-73e19e281fd8 "LFC112: Creating Effective Documentation for Developers")
-[![Cloud Pak for AIOps 4 Administrator](https://images.credly.com/size/110x110/images/8ca1aaff-fe2c-4e04-a49a-fb9aea5c5cb8/image.png)](http://www.credly.com/badges/1b9666c3-5ae6-4faf-be03-bbf05547c574 "Cloud Pak for AIOps 4 Administrator")
-[![IBM Cloud Security Engineer Essentials](https://images.credly.com/size/110x110/images/859227a3-9523-4773-9888-1ba03d70095b/image.png)](http://www.credly.com/badges/44ee60af-644c-4e64-9c85-cebaf13148ef "IBM Cloud Security Engineer Essentials")
-[![IBM Z DevOps Testing Fundamentals](https://images.credly.com/size/110x110/images/33d81b89-a936-4497-a3de-adb263d8415d/image.png)](http://www.credly.com/badges/886798bf-d99c-4f32-accb-6f1612b91111 "IBM Z DevOps Testing Fundamentals")
-[![z/OS REXX Programming](https://images.credly.com/size/110x110/images/6443b0e2-360a-45e2-be3b-134011e18c2a/image.png)](http://www.credly.com/badges/1638c416-6fdc-44b6-97de-8ac66b9f57e9 "z/OS REXX Programming")
 <!--END_SECTION:badges-->
 </details>
