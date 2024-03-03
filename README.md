@@ -80,6 +80,11 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Generative AI: Impact, Considerations, and Ethical Issues](https://images.credly.com/size/110x110/images/825f820e-800b-4b5f-bed4-2ea4cf856e5b/image.png)](http://www.credly.com/badges/6a8561c3-b192-4b31-a47e-e3d9d06c1bec "Generative AI: Impact, Considerations, and Ethical Issues")
+[![Generative AI: Business Transformation and Career Growth](https://images.credly.com/size/110x110/images/9fde66ff-5b88-4ada-be3f-8c466694b428/image.png)](http://www.credly.com/badges/0c92287d-fa30-4614-847b-54da8c12d123 "Generative AI: Business Transformation and Career Growth")
+[![Generative AI: Foundation Models and Platforms](https://images.credly.com/size/110x110/images/69555de5-5d92-41e9-a2d6-6d5af1aabcf0/image.png)](http://www.credly.com/badges/1e8a1482-4723-408e-872c-5560dd74978d "Generative AI: Foundation Models and Platforms")
+[![Generative AI: Prompt Engineering](https://images.credly.com/size/110x110/images/d2ee9e20-a398-40cb-95bb-4d2020956fe7/image.png)](http://www.credly.com/badges/965c84ab-ae13-449d-bc4d-499809df7a07 "Generative AI: Prompt Engineering")
+[![Generative AI Essentials](https://images.credly.com/size/110x110/images/75d6dc6d-3c20-4e98-8573-cbcddd622f0e/image.png)](http://www.credly.com/badges/920da52d-b020-4926-a1b5-602e49a6b84f "Generative AI Essentials")
 [![Getting Started with SAS and Kubernetes](https://images.credly.com/size/110x110/images/7a75e853-0c2f-4c40-817c-f3360ee34131/image.png)](http://www.credly.com/badges/4169c7a3-3ce7-4471-806a-4276d4ef3f37 "Getting Started with SAS and Kubernetes")
 [![Data Literacy in Practice](https://images.credly.com/size/110x110/images/faaa1826-703f-4df8-9db9-4d297927f8fd/168058-badges-Learn-DataLiteracy.png)](http://www.credly.com/badges/30692e90-9570-4d16-bae9-c561e34d6010 "Data Literacy in Practice")
 [![IBM CLM® for SAFe® - Level 1](https://images.credly.com/size/110x110/images/ec58ffe5-e04f-49a9-bcd8-1aeb09bc91f9/IBM_CLM_for_SAFe_L1_Bronze.png)](http://www.credly.com/badges/35a755d0-3988-4104-92ea-84962c9efa8c "IBM CLM® for SAFe® - Level 1")
@@ -123,10 +128,5 @@ My most recent badges:
 [![IMS Database Fundamentals](https://images.credly.com/size/110x110/images/368c064b-04f2-430f-8048-907a268d918e/image.png)](http://www.credly.com/badges/25cd8f77-d3cb-4fb6-b4a2-a6edac82925e "IMS Database Fundamentals")
 [![IMS Fundamentals](https://images.credly.com/size/110x110/images/30922a3d-fc08-4507-bf70-e62a082e05e8/image.png)](http://www.credly.com/badges/8de45e8d-1dd8-4d07-8817-64683704afcb "IMS Fundamentals")
 [![IMS Transaction Manager Performance Analysis](https://images.credly.com/size/110x110/images/3fa3eb54-9109-490a-abd9-c547245f70f9/image.png)](http://www.credly.com/badges/e850e479-0763-4a75-8dc3-1797059746e5 "IMS Transaction Manager Performance Analysis")
-[![IMS Database Repair](https://images.credly.com/size/110x110/images/2420ee88-a870-47dd-9eb8-85c91f340351/image.png)](http://www.credly.com/badges/399b7ead-0fc6-452a-b9d8-b73ba403644b "IMS Database Repair")
-[![Pen Testing, Incident Response & Forensics](https://images.credly.com/size/110x110/images/35524493-9a51-48d0-941c-f40e1452661b/image.png)](http://www.credly.com/badges/1f10da37-7fc0-47a4-95a4-4a4669fd19fa "Pen Testing, Incident Response & Forensics")
-[![LFD137: Open Source Contribution in Finance](https://images.credly.com/size/110x110/images/9c49bb20-022e-4f2d-aa51-50be62e05745/image.png)](http://www.credly.com/badges/f3b75827-05f8-40f5-92b3-e440678eb349 "LFD137: Open Source Contribution in Finance")
-[![LFC111: Open Source Technical Documentation Essentials](https://images.credly.com/size/110x110/images/2716319d-5a73-4d79-b1ae-6fa1b3d1c9db/image.png)](http://www.credly.com/badges/04151014-fefd-4443-9a78-1f46d6df32bf "LFC111: Open Source Technical Documentation Essentials")
-[![LFC112: Creating Effective Documentation for Developers](https://images.credly.com/size/110x110/images/bd988b9c-2bfa-4cd8-9216-d0f86bf4560a/image.png)](http://www.credly.com/badges/03d99270-45cd-4f09-ab4f-73e19e281fd8 "LFC112: Creating Effective Documentation for Developers")
 <!--END_SECTION:badges-->
 </details>
