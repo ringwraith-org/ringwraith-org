@@ -80,6 +80,7 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Quantum Explorer 2023: Intermediate](https://images.credly.com/size/110x110/images/94a50ab2-6939-40df-93d6-86b1322271ab/image.png)](http://www.credly.com/badges/13dea5e3-1741-455a-ba8a-a52c1e3df255 "Quantum Explorer 2023: Intermediate")
 [![Generative AI: Impact, Considerations, and Ethical Issues](https://images.credly.com/size/110x110/images/825f820e-800b-4b5f-bed4-2ea4cf856e5b/image.png)](http://www.credly.com/badges/6a8561c3-b192-4b31-a47e-e3d9d06c1bec "Generative AI: Impact, Considerations, and Ethical Issues")
 [![Generative AI: Business Transformation and Career Growth](https://images.credly.com/size/110x110/images/9fde66ff-5b88-4ada-be3f-8c466694b428/image.png)](http://www.credly.com/badges/0c92287d-fa30-4614-847b-54da8c12d123 "Generative AI: Business Transformation and Career Growth")
 [![Generative AI: Foundation Models and Platforms](https://images.credly.com/size/110x110/images/69555de5-5d92-41e9-a2d6-6d5af1aabcf0/image.png)](http://www.credly.com/badges/1e8a1482-4723-408e-872c-5560dd74978d "Generative AI: Foundation Models and Platforms")
@@ -127,6 +128,5 @@ My most recent badges:
 [![IMS Transaction Manager Application Programming](https://images.credly.com/size/110x110/images/b62a2ded-ae52-4402-98b6-6ee90c461a0b/image.png)](http://www.credly.com/badges/9496d837-7da1-4911-bfe7-fdbb28e52762 "IMS Transaction Manager Application Programming")
 [![IMS Database Fundamentals](https://images.credly.com/size/110x110/images/368c064b-04f2-430f-8048-907a268d918e/image.png)](http://www.credly.com/badges/25cd8f77-d3cb-4fb6-b4a2-a6edac82925e "IMS Database Fundamentals")
 [![IMS Fundamentals](https://images.credly.com/size/110x110/images/30922a3d-fc08-4507-bf70-e62a082e05e8/image.png)](http://www.credly.com/badges/8de45e8d-1dd8-4d07-8817-64683704afcb "IMS Fundamentals")
-[![IMS Transaction Manager Performance Analysis](https://images.credly.com/size/110x110/images/3fa3eb54-9109-490a-abd9-c547245f70f9/image.png)](http://www.credly.com/badges/e850e479-0763-4a75-8dc3-1797059746e5 "IMS Transaction Manager Performance Analysis")
 <!--END_SECTION:badges-->
 </details>
