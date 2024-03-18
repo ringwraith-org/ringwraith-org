@@ -80,6 +80,8 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM FileNet Content Manager - Tech Jam](https://images.credly.com/size/110x110/images/7ba35c1f-ca1f-4283-99ce-cc717bcc0527/image.png)](http://www.credly.com/badges/2e372262-3fca-451e-ac5f-ad2528edfb6f "IBM FileNet Content Manager - Tech Jam")
+[![IBM App Connect Enterprise 12 Application Development I](https://images.credly.com/size/110x110/images/dd6ceafc-1fd9-4fe6-820e-531634f09106/image.png)](http://www.credly.com/badges/9e141c15-ab16-4e3d-91f7-b69e489a795f "IBM App Connect Enterprise 12 Application Development I")
 [![Quantum Explorer 2023: Intermediate](https://images.credly.com/size/110x110/images/94a50ab2-6939-40df-93d6-86b1322271ab/image.png)](http://www.credly.com/badges/13dea5e3-1741-455a-ba8a-a52c1e3df255 "Quantum Explorer 2023: Intermediate")
 [![Generative AI: Impact, Considerations, and Ethical Issues](https://images.credly.com/size/110x110/images/825f820e-800b-4b5f-bed4-2ea4cf856e5b/image.png)](http://www.credly.com/badges/6a8561c3-b192-4b31-a47e-e3d9d06c1bec "Generative AI: Impact, Considerations, and Ethical Issues")
 [![Generative AI: Business Transformation and Career Growth](https://images.credly.com/size/110x110/images/9fde66ff-5b88-4ada-be3f-8c466694b428/image.png)](http://www.credly.com/badges/0c92287d-fa30-4614-847b-54da8c12d123 "Generative AI: Business Transformation and Career Growth")
@@ -88,7 +90,7 @@ My most recent badges:
 [![Generative AI Essentials](https://images.credly.com/size/110x110/images/75d6dc6d-3c20-4e98-8573-cbcddd622f0e/image.png)](http://www.credly.com/badges/920da52d-b020-4926-a1b5-602e49a6b84f "Generative AI Essentials")
 [![Getting Started with SAS and Kubernetes](https://images.credly.com/size/110x110/images/7a75e853-0c2f-4c40-817c-f3360ee34131/image.png)](http://www.credly.com/badges/4169c7a3-3ce7-4471-806a-4276d4ef3f37 "Getting Started with SAS and Kubernetes")
 [![Data Literacy in Practice](https://images.credly.com/size/110x110/images/faaa1826-703f-4df8-9db9-4d297927f8fd/168058-badges-Learn-DataLiteracy.png)](http://www.credly.com/badges/30692e90-9570-4d16-bae9-c561e34d6010 "Data Literacy in Practice")
-[![IBM CLM® for SAFe® - Level 1](https://images.credly.com/size/110x110/images/ec58ffe5-e04f-49a9-bcd8-1aeb09bc91f9/IBM_CLM_for_SAFe_L1_Bronze.png)](http://www.credly.com/badges/35a755d0-3988-4104-92ea-84962c9efa8c "IBM CLM® for SAFe® - Level 1")
+[![IBM CLM® for SAFe® - Level 1](https://images.credly.com/size/110x110/images/fb0ed3a5-d027-4134-87a3-ea2737e5b36f/image.png)](http://www.credly.com/badges/35a755d0-3988-4104-92ea-84962c9efa8c "IBM CLM® for SAFe® - Level 1")
 [![Neuro-Symbolic AI Essentials](https://images.credly.com/size/110x110/images/4f2fd557-268e-4b82-bab9-14b46989fde9/image.png)](http://www.credly.com/badges/9cc2a515-2aba-4b1b-be5b-1bbb5720766a "Neuro-Symbolic AI Essentials")
 [![z/Architecture Assembler Language - Part 2: Machine Instructions](https://images.credly.com/size/110x110/images/a77edd97-b8f9-4b6b-8a05-8f28f7b3ab92/image.png)](http://www.credly.com/badges/42f85367-2241-4a97-82ad-92c0babed3c2 "z/Architecture Assembler Language - Part 2: Machine Instructions")
 [![Fundamentals of Agile Project Management](https://images.credly.com/size/110x110/images/2677386a-c65f-4d4d-89f2-5b0babbc77d2/KickoffAgileBadge.png)](http://www.credly.com/badges/317f84c3-a333-4b9f-856e-e456aab7d429 "Fundamentals of Agile Project Management")
@@ -126,7 +128,5 @@ My most recent badges:
 [![Practical Introduction to Quantum-Safe Cryptography](https://images.credly.com/size/110x110/images/53629652-f0f2-4bc8-abfd-444c366d3cf6/image.png)](http://www.credly.com/badges/3e0584fd-a77d-4736-8409-3f94ccc0f583 "Practical Introduction to Quantum-Safe Cryptography")
 [![Basics of Quantum Information](https://images.credly.com/size/110x110/images/60cbe993-f35f-4b98-b7f6-8cd51233fe2a/image.png)](http://www.credly.com/badges/079fcacb-e855-441e-8fa4-ad9550ba5651 "Basics of Quantum Information")
 [![IMS Transaction Manager Application Programming](https://images.credly.com/size/110x110/images/b62a2ded-ae52-4402-98b6-6ee90c461a0b/image.png)](http://www.credly.com/badges/9496d837-7da1-4911-bfe7-fdbb28e52762 "IMS Transaction Manager Application Programming")
-[![IMS Database Fundamentals](https://images.credly.com/size/110x110/images/368c064b-04f2-430f-8048-907a268d918e/image.png)](http://www.credly.com/badges/25cd8f77-d3cb-4fb6-b4a2-a6edac82925e "IMS Database Fundamentals")
-[![IMS Fundamentals](https://images.credly.com/size/110x110/images/30922a3d-fc08-4507-bf70-e62a082e05e8/image.png)](http://www.credly.com/badges/8de45e8d-1dd8-4d07-8817-64683704afcb "IMS Fundamentals")
 <!--END_SECTION:badges-->
 </details>
