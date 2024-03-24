@@ -80,6 +80,10 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Generative AI Essentials for Cybersecurity](https://images.credly.com/size/110x110/images/69c4c53b-5f46-4709-b631-b5a8d179718c/image.png)](http://www.credly.com/badges/e314a45a-6a27-4d93-97ff-2a2c3d3f001e "Generative AI Essentials for Cybersecurity")
+[![IBM AI Ladder: A Framework for Deploying AI in your Enterprise](https://images.credly.com/size/110x110/images/7718dcb7-9c6f-40ff-8aeb-48ef42585729/Coursera_-_AI_Ladder_Essentials.png)](http://www.credly.com/badges/e13a92b8-481e-4d55-b7bf-459bf2ac9ee5 "IBM AI Ladder: A Framework for Deploying AI in your Enterprise")
+[![Data Science Orientation](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](http://www.credly.com/badges/410fc1f4-9d11-4512-8899-28eb16eeafd2 "Data Science Orientation")
+[![IBM Automation Decision Services - Tech Jam](https://images.credly.com/size/110x110/images/dde9b6f0-36bf-49e5-aa98-873d4947102d/image.png)](http://www.credly.com/badges/ca4078d9-d2b5-4771-ac89-033a9e0efe9b "IBM Automation Decision Services - Tech Jam")
 [![IBM FileNet Content Manager - Tech Jam](https://images.credly.com/size/110x110/images/7ba35c1f-ca1f-4283-99ce-cc717bcc0527/image.png)](http://www.credly.com/badges/2e372262-3fca-451e-ac5f-ad2528edfb6f "IBM FileNet Content Manager - Tech Jam")
 [![IBM App Connect Enterprise 12 Application Development I](https://images.credly.com/size/110x110/images/dd6ceafc-1fd9-4fe6-820e-531634f09106/image.png)](http://www.credly.com/badges/9e141c15-ab16-4e3d-91f7-b69e489a795f "IBM App Connect Enterprise 12 Application Development I")
 [![Quantum Explorer 2023: Intermediate](https://images.credly.com/size/110x110/images/94a50ab2-6939-40df-93d6-86b1322271ab/image.png)](http://www.credly.com/badges/13dea5e3-1741-455a-ba8a-a52c1e3df255 "Quantum Explorer 2023: Intermediate")
@@ -124,9 +128,5 @@ My most recent badges:
 [![MRO Inventory Optimization Technical Essentials](https://images.credly.com/size/110x110/images/c2eecfad-352d-4904-97c1-70da516aec59/MRO_20Inventory_20Optimization_20Technical_20Essentials.png)](http://www.credly.com/badges/7fb23a05-f8b6-4da0-b75d-0cbe25140dde "MRO Inventory Optimization Technical Essentials")
 [![IMS Shared Queues](https://images.credly.com/size/110x110/images/13011da4-e45d-42f9-a53a-17d1c00b183c/image.png)](http://www.credly.com/badges/13839bfe-6159-40af-aba0-104206e2c07b "IMS Shared Queues")
 [![Applied Data Science with R - Level 2](https://images.credly.com/size/110x110/images/22c81aed-7c41-4043-ad1e-119c73a44f54/Applied_Data_Science_with_R.png)](http://www.credly.com/badges/bfe3f162-d400-4c94-87f3-3cbb53bb01f1 "Applied Data Science with R - Level 2")
-[![IBM Planning Analytics V2.0.x Administration](https://images.credly.com/size/110x110/images/c97de336-1097-4061-86e9-381a0f8f51e6/image.png)](http://www.credly.com/badges/b04a2b2f-b9a2-4f34-8509-b1a409922e94 "IBM Planning Analytics V2.0.x Administration")
-[![Practical Introduction to Quantum-Safe Cryptography](https://images.credly.com/size/110x110/images/53629652-f0f2-4bc8-abfd-444c366d3cf6/image.png)](http://www.credly.com/badges/3e0584fd-a77d-4736-8409-3f94ccc0f583 "Practical Introduction to Quantum-Safe Cryptography")
-[![Basics of Quantum Information](https://images.credly.com/size/110x110/images/60cbe993-f35f-4b98-b7f6-8cd51233fe2a/image.png)](http://www.credly.com/badges/079fcacb-e855-441e-8fa4-ad9550ba5651 "Basics of Quantum Information")
-[![IMS Transaction Manager Application Programming](https://images.credly.com/size/110x110/images/b62a2ded-ae52-4402-98b6-6ee90c461a0b/image.png)](http://www.credly.com/badges/9496d837-7da1-4911-bfe7-fdbb28e52762 "IMS Transaction Manager Application Programming")
 <!--END_SECTION:badges-->
 </details>
