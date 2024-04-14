@@ -80,6 +80,11 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Project Management Job Search, Resume, and Interview Prep](https://images.credly.com/size/110x110/images/b81854b5-d834-4892-9153-4dae56591da4/image.png)](http://www.credly.com/badges/838a1667-3484-4c3f-b335-07ccacecdf78 "Project Management Job Search, Resume, and Interview Prep")
+[![IBM Cloud Pak for Business Automation Installation - Tech Jam](https://images.credly.com/size/110x110/images/36e3a762-3536-4997-b075-2c02dbbf6aab/image.png)](http://www.credly.com/badges/3f422005-0c90-4827-b652-bc0b63408b94 "IBM Cloud Pak for Business Automation Installation - Tech Jam")
+[![People and Soft Skills Essentials](https://images.credly.com/size/110x110/images/e7ee5477-69d3-49a0-a616-bfbe928da4bb/image.png)](http://www.credly.com/badges/ba1fffeb-1bda-48c4-9322-23675f08b3af "People and Soft Skills Essentials")
+[![Software, Programming, and Database Essentials](https://images.credly.com/size/110x110/images/8d2ca49d-a0d6-4032-976a-cace11b6861a/image.png)](http://www.credly.com/badges/cb142410-ec99-428d-b608-e25b156e20b4 "Software, Programming, and Database Essentials")
+[![Product Management Essentials](https://images.credly.com/size/110x110/images/6abd5c40-4663-4c4c-ab4e-ea4a86269db6/image.png)](http://www.credly.com/badges/16fb452e-38d2-4344-b118-5691b9d8099d "Product Management Essentials")
 [![Microsoft Advertising Programmatic Badge](https://images.credly.com/size/110x110/images/084f94a1-3f5f-470e-b7f3-f36fae31e843/image.png)](http://www.credly.com/badges/46b563e8-cc77-473a-8647-5e06ff187c8a "Microsoft Advertising Programmatic Badge")
 [![IBM IT Scrum Master Professional Certificate](https://images.credly.com/size/110x110/images/c516232b-82a1-4553-8bda-09aa54fe5f2d/image.png)](http://www.credly.com/badges/7c075931-cc4a-46c8-98fa-b6e1b76ffb08 "IBM IT Scrum Master Professional Certificate")
 [![Chatbot Building Essentials](https://images.credly.com/size/110x110/images/2a334906-fff1-4047-bcd9-be94347d0dca/Chatbot_Building_Essentials_Foundational.png)](http://www.credly.com/badges/709ed69b-e50e-45ab-8dff-70162b27d7b8 "Chatbot Building Essentials")
@@ -123,10 +128,5 @@ My most recent badges:
 [![IBM Planning Analytics for Microsoft Excel V2.0.x Analyze Data](https://images.credly.com/size/110x110/images/e55fe04c-ff44-45bd-9eb9-6ce1011176e9/image.png)](http://www.credly.com/badges/76d14a56-8072-4b47-b874-d9aecb1f2507 "IBM Planning Analytics for Microsoft Excel V2.0.x Analyze Data")
 [![IMS Database Application Programming](https://images.credly.com/size/110x110/images/80907529-1762-4539-a212-018ef9dee81f/image.png)](http://www.credly.com/badges/037f78f5-4a5a-4745-8aee-c34a2a8e1d3e "IMS Database Application Programming")
 [![IMS Fast Path Implementation](https://images.credly.com/size/110x110/images/a25cb3f7-783c-4003-9efc-4624fe9873c2/image.png)](http://www.credly.com/badges/cf77a34f-32dd-435b-a8d7-f86ffa5a1a37 "IMS Fast Path Implementation")
-[![Fundamentals of IBM Cloud Associate SRE V2](https://images.credly.com/size/110x110/images/4520725d-b82b-4914-8d66-9924a361ed0b/image.png)](http://www.credly.com/badges/ca45096c-b8bb-40fc-bd5f-fffd31992dc5 "Fundamentals of IBM Cloud Associate SRE V2")
-[![IMS Database Performance and Tuning](https://images.credly.com/size/110x110/images/7710e457-de89-46d2-a57f-1a22d4a37b6d/image.png)](http://www.credly.com/badges/aed843cd-6758-452a-ae5e-69658ca12d06 "IMS Database Performance and Tuning")
-[![IMS Data Sharing](https://images.credly.com/size/110x110/images/4feb1db5-4838-42f0-8f15-48e0f7d65cd8/image.png)](http://www.credly.com/badges/f85a81ef-dba7-4fd7-89d3-dc4642a1d03a "IMS Data Sharing")
-[![IMS System Programming in a DBCTL Environment](https://images.credly.com/size/110x110/images/4a983234-9f68-4772-b603-5896f58fd20b/image.png)](http://www.credly.com/badges/a8c78207-33c8-49f4-b741-463553d6e9a0 "IMS System Programming in a DBCTL Environment")
-[![COBOL Programming with VSCode](https://images.credly.com/size/110x110/images/e4bc9868-9e6f-45be-adc6-8e075dd4e23c/image.png)](http://www.credly.com/badges/588cdcc0-cbcc-496a-b92f-8f248028d7f7 "COBOL Programming with VSCode")
 <!--END_SECTION:badges-->
 </details>
