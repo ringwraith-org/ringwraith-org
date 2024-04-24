@@ -65,8 +65,9 @@ Please find below detail of groups and organizations I am part of or have an int
 <details>
 
 <summary>Details:</summary>
-
-
+### Coursera
+To view my Coursera profile and acheivements please click [here](https://www.coursera.org/learner/piers-margetts)
+<br>
 
 ### OpenLearn
 To view my Open University OpenLearn profile and acheivements please click [here](https://www.open.edu/openlearn/profiles/zv599976)
