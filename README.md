@@ -65,6 +65,8 @@ Please find below detail of groups and organizations I am part of or have an int
 <details>
 
 <summary>Details:</summary>
+<br>
+
 ### Coursera
 To view my Coursera profile and acheivements please click [here](https://www.coursera.org/learner/piers-margetts)
 <br>
