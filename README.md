@@ -83,6 +83,9 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Proofpoint Certified Email Authentication Specialist 2024](https://images.credly.com/size/110x110/images/75e2763e-9052-4cf8-bf6c-c247931e1f58/image.png)](http://www.credly.com/badges/5e069ed5-82f3-4469-aba2-a4a50d21dede "Proofpoint Certified Email Authentication Specialist 2024")
+[![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](http://www.credly.com/badges/6488c1df-ba34-4820-86a3-f6c665c33d1a "Python for Data Science and AI")
+[![IBM watsonx.data Technical Essentials](https://images.credly.com/size/110x110/images/55db4a16-b62e-4031-a7fc-124e4aa2d1e2/IBM_20watsonxdata_20Technical_20Essentials.png)](http://www.credly.com/badges/23828ada-465a-49b3-8a8d-cbba38e91e9e "IBM watsonx.data Technical Essentials")
 [![Network Security & Database Vulnerabilities](https://images.credly.com/size/110x110/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png)](http://www.credly.com/badges/b6a4168d-e6a7-4379-b58e-b1e627e1c88d "Network Security & Database Vulnerabilities")
 [![Deep Learning with Tensorflow](https://images.credly.com/size/110x110/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png)](http://www.credly.com/badges/906e863d-f5c2-4040-b99b-964e06a10215 "Deep Learning with Tensorflow")
 [![Monitoring and Observability for Development and DevOps](https://images.credly.com/size/110x110/images/d1ab3335-73d9-484a-9e81-e526cf94c068/image.png)](http://www.credly.com/badges/79a2e479-3875-4922-b2b0-84e8c5bb6f9c "Monitoring and Observability for Development and DevOps")
@@ -128,8 +131,5 @@ My most recent badges:
 [![Networking and Storage Essentials](https://images.credly.com/size/110x110/images/38776da6-54ea-474e-8760-042c9593d113/image.png)](http://www.credly.com/badges/fe52ffae-6823-4444-9b16-55aff5cdea52 "Networking and Storage Essentials")
 [![Introduction to Cloud Computing](https://images.credly.com/size/110x110/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](http://www.credly.com/badges/27e0020a-925d-4968-82b6-511d2f850aeb "Introduction to Cloud Computing")
 [![Project Management Essentials](https://images.credly.com/size/110x110/images/4d7038ef-658b-4ef8-8627-e0af45963c7e/image.png)](http://www.credly.com/badges/f478d0f3-781c-4601-b50c-f08d801e1956 "Project Management Essentials")
-[![Gen AI for Business Leaders](https://images.credly.com/size/110x110/images/f07d02c6-277f-43fd-975a-f6148fd84782/image.png)](http://www.credly.com/badges/b79fb950-aa09-407e-aaf5-891381fd4df8 "Gen AI for Business Leaders")
-[![Generative AI Essentials for Data Science](https://images.credly.com/size/110x110/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png)](http://www.credly.com/badges/a62ab8da-59b8-426e-8ffd-09521805e1fd "Generative AI Essentials for Data Science")
-[![Generative AI Essentials for Cybersecurity](https://images.credly.com/size/110x110/images/69c4c53b-5f46-4709-b631-b5a8d179718c/image.png)](http://www.credly.com/badges/e314a45a-6a27-4d93-97ff-2a2c3d3f001e "Generative AI Essentials for Cybersecurity")
 <!--END_SECTION:badges-->
 </details>
