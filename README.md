@@ -83,6 +83,9 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IMS Physical Organization of Databases](https://images.credly.com/size/110x110/images/4a2b285f-db0d-49cc-b241-746f9f2c874e/IMS_20Physical_20Organization_20of_20Databases.png)](http://www.credly.com/badges/bc21689a-d4f7-40e4-b4bb-01025f511f54 "IMS Physical Organization of Databases")
+[![Liberty Developer Essentials](https://images.credly.com/size/110x110/images/a3d67ea4-2423-485f-abf0-8f08b194a3c3/IBM_20Liberty_20Developer_20Essentials.png)](http://www.credly.com/badges/4588c26e-e82d-4e6a-b620-f8c1239ceced "Liberty Developer Essentials")
+[![Summer Security Foundations](https://images.credly.com/size/110x110/images/bf27c60d-7c33-4d5f-9296-f5f52986eb94/image.png)](http://www.credly.com/badges/637a5a05-dc63-443d-b63c-861fdeedaa0c "Summer Security Foundations")
 [![Generative AI Essentials for Software Developers](https://images.credly.com/size/110x110/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png)](http://www.credly.com/badges/63b93a50-f5bf-4294-84c0-fa4ee601455a "Generative AI Essentials for Software Developers")
 [![Monitoring and Platform APIs for IBM Cloud Pak for Data V4.7](https://images.credly.com/size/110x110/images/c5b135e9-14b7-4522-b944-9f4897d451d9/Monitoring_20and_20Platform_20APIS_20for_20Cld_20Pak_20for_20Data_20V4_207.png)](http://www.credly.com/badges/a1e585eb-c28f-45d9-abf6-7052e971b998 "Monitoring and Platform APIs for IBM Cloud Pak for Data V4.7")
 [![LFS146: Introduction to Cilium](https://images.credly.com/size/110x110/images/59d1eb1c-1451-4e3f-8a25-c16f2db85c30/image.png)](http://www.credly.com/badges/a5effefe-1091-4b5f-9314-1bf8f632034b "LFS146: Introduction to Cilium")
@@ -128,8 +131,5 @@ My most recent badges:
 [![Introduction to Cybersecurity Careers](https://images.credly.com/size/110x110/images/a33f51fa-d8f8-4d3d-9dff-464396e7da92/image.png)](http://www.credly.com/badges/cdcfe095-cf9e-4d5d-8e42-0d22ac5ee624 "Introduction to Cybersecurity Careers")
 [![Statistics Essentials Using Excel](https://images.credly.com/size/110x110/images/a0868d65-5df0-4524-9689-59c67e6a1dde/image.png)](http://www.credly.com/badges/26cd9e1c-048e-488e-a63b-a08a5dd21305 "Statistics Essentials Using Excel")
 [![Excel Essentials for Data Analytics](https://images.credly.com/size/110x110/images/7a675db1-5cbd-4872-b16f-beae148bfbad/image.png)](http://www.credly.com/badges/5ff14031-f54b-440c-90db-ddd7cdb6be71 "Excel Essentials for Data Analytics")
-[![IBM OpenPages Technical Essentials](https://images.credly.com/size/110x110/images/b88fe365-7821-447e-b8af-2f5b3d4723c3/OpenPages_20Technical_20Essentials.png)](http://www.credly.com/badges/f22b2eb5-d889-4c90-88ad-8aa3f18079ff "IBM OpenPages Technical Essentials")
-[![Cybersecurity Architecture](https://images.credly.com/size/110x110/images/7443a258-a0a8-428b-a088-82f782268fe9/image.png)](http://www.credly.com/badges/ec0ccdad-973f-4237-b55b-97ce4b0030f6 "Cybersecurity Architecture")
-[![Generative AI for Data Analysts Specialization](https://images.credly.com/size/110x110/images/7e770c6f-3b81-492b-93d5-d008fe9f4824/image.png)](http://www.credly.com/badges/bee5c5ff-b7a3-4de1-b71f-a9f3e334c537 "Generative AI for Data Analysts Specialization")
 <!--END_SECTION:badges-->
 </details>
