@@ -83,6 +83,7 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Maturing Threat-Informed Defense with M3TID](https://images.credly.com/size/110x110/images/a4087ac2-8347-47cd-bcb5-86a999929bfc/image.png)](http://www.credly.com/badges/4f8951a2-5411-4c34-98cf-8ae25f060dfb "Maturing Threat-Informed Defense with M3TID")
 [![IMS Physical Organization of Databases](https://images.credly.com/size/110x110/images/4a2b285f-db0d-49cc-b241-746f9f2c874e/IMS_20Physical_20Organization_20of_20Databases.png)](http://www.credly.com/badges/bc21689a-d4f7-40e4-b4bb-01025f511f54 "IMS Physical Organization of Databases")
 [![Liberty Developer Essentials](https://images.credly.com/size/110x110/images/a3d67ea4-2423-485f-abf0-8f08b194a3c3/IBM_20Liberty_20Developer_20Essentials.png)](http://www.credly.com/badges/4588c26e-e82d-4e6a-b620-f8c1239ceced "Liberty Developer Essentials")
 [![Summer Security Foundations](https://images.credly.com/size/110x110/images/bf27c60d-7c33-4d5f-9296-f5f52986eb94/image.png)](http://www.credly.com/badges/637a5a05-dc63-443d-b63c-861fdeedaa0c "Summer Security Foundations")
@@ -130,6 +131,5 @@ My most recent badges:
 [![Tools for Data Science V2](https://images.credly.com/size/110x110/images/1447954e-9923-4703-a647-eac80e5f0682/image.png)](http://www.credly.com/badges/6e606e83-4b7e-4fed-837f-8c19420ae0f5 "Tools for Data Science V2")
 [![Introduction to Cybersecurity Careers](https://images.credly.com/size/110x110/images/a33f51fa-d8f8-4d3d-9dff-464396e7da92/image.png)](http://www.credly.com/badges/cdcfe095-cf9e-4d5d-8e42-0d22ac5ee624 "Introduction to Cybersecurity Careers")
 [![Statistics Essentials Using Excel](https://images.credly.com/size/110x110/images/a0868d65-5df0-4524-9689-59c67e6a1dde/image.png)](http://www.credly.com/badges/26cd9e1c-048e-488e-a63b-a08a5dd21305 "Statistics Essentials Using Excel")
-[![Excel Essentials for Data Analytics](https://images.credly.com/size/110x110/images/7a675db1-5cbd-4872-b16f-beae148bfbad/image.png)](http://www.credly.com/badges/5ff14031-f54b-440c-90db-ddd7cdb6be71 "Excel Essentials for Data Analytics")
 <!--END_SECTION:badges-->
 </details>
