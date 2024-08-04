@@ -83,6 +83,10 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Cybersecurity Awareness - CAPC](https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](http://www.credly.com/badges/e8afa904-736e-45c8-8ad2-c0f0cf7e0f18 "Cybersecurity Awareness - CAPC")
+[![IBM API Connect 10 Developer](https://images.credly.com/size/110x110/images/ed5ebfb0-e88f-4f24-a1d9-0041dedc8ad0/image.png)](http://www.credly.com/badges/59460df9-9060-4cf8-8c57-fb22f6a8ae9d "IBM API Connect 10 Developer")
+[![Variational Algorithm Design](https://images.credly.com/size/110x110/images/3ac1a6a1-ea8c-44ea-9eaf-03458d10b19f/image.png)](http://www.credly.com/badges/197f337c-0759-4816-98ed-78a003a18379 "Variational Algorithm Design")
+[![IBM watsonx Orchestrate: Getting Started with Automation Builder](https://images.credly.com/size/110x110/images/953dc232-9669-4cf9-a8e3-c62cfd448c20/IBM_20watsonx_20Orchestrate_20Getting_20Started_20with_20Autom_20Builder.png)](http://www.credly.com/badges/efd42520-0005-4cd1-ab3f-b8d001399366 "IBM watsonx Orchestrate: Getting Started with Automation Builder")
 [![IBM Z and LinuxONE Community Contributor - 2024 (Level 1)](https://images.credly.com/size/110x110/images/4c08376f-bed0-4af8-a7b9-4435f54b692c/image.png)](http://www.credly.com/badges/d7db5945-dba5-444e-8d79-657c43a87c4f "IBM Z and LinuxONE Community Contributor - 2024 (Level 1)")
 [![Databases and SQL for Data Science](https://images.credly.com/size/110x110/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png)](http://www.credly.com/badges/f44072fb-4fa3-4846-929e-8003370a0bf3 "Databases and SQL for Data Science")
 [![Data Science Foundations](https://images.credly.com/size/110x110/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png)](http://www.credly.com/badges/2ac71359-15f9-462c-b6c1-0618b6ebd2fe "Data Science Foundations")
@@ -127,9 +131,5 @@ My most recent badges:
 [![LFC120: Leading High-Performance Working Group Meetings](https://images.credly.com/size/110x110/images/08199f3b-6acb-4155-b64c-3804e6d04bdb/image.png)](http://www.credly.com/badges/047cf9fb-f9ce-4c31-9d94-73b7fdffb581 "LFC120: Leading High-Performance Working Group Meetings")
 [![LFEL1011: OpenAPI Fundamentals](https://images.credly.com/size/110x110/images/310767de-989a-45b8-a902-b8a09835a4db/image.png)](http://www.credly.com/badges/1aa96715-b2fa-4e37-841f-e1903cb50c77 "LFEL1011: OpenAPI Fundamentals")
 [![LFS147: Introduction to AI/ML Toolkits with Kubeflow](https://images.credly.com/size/110x110/images/f5da57c6-29ad-4b68-870c-ae4dfb4beb67/image.png)](http://www.credly.com/badges/777c00b5-f3a2-478d-872a-a83f500bc369 "LFS147: Introduction to AI/ML Toolkits with Kubeflow")
-[![IBM Quantum Challenge 2024 Achievement](https://images.credly.com/size/110x110/images/d03ec9e1-7965-4d39-9df0-00538089f86b/IBM_20Quantum_20Challenge_202024_20Achievement.png)](http://www.credly.com/badges/3ac9e1df-946f-47c2-b906-64c10e889444 "IBM Quantum Challenge 2024 Achievement")
-[![IBM watsonx Orchestrate Build an AI Assistant](https://images.credly.com/size/110x110/images/a1b07849-ed53-47ca-84a1-f6ba0f1da1f9/Ibm_20watsonx_20Orchestrate_20Build_20an_20AI_20Assistant.png)](http://www.credly.com/badges/e103d6c9-d455-4715-a3e6-56ed00d3a0e2 "IBM watsonx Orchestrate Build an AI Assistant")
-[![Foundations of AI Security](https://images.credly.com/size/110x110/images/fc7a7fc0-856d-48db-804f-ea33d158daf0/image.png)](http://www.credly.com/badges/8a70aa47-4784-4942-ba45-684722b3af15 "Foundations of AI Security")
-[![Software Developer Career Guide and Interview Preparation](https://images.credly.com/size/110x110/images/8647d8b6-2e29-4a88-bfb8-d5ba41ab5716/image.png)](http://www.credly.com/badges/8df953c0-1aaf-4247-99a0-7fff434631c0 "Software Developer Career Guide and Interview Preparation")
 <!--END_SECTION:badges-->
 </details>
