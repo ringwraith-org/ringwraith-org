@@ -84,7 +84,7 @@ My most recent badges:
 <br>
 <!--START_SECTION:badges-->
 [![IBM Z 101 Certificate](https://images.credly.com/size/110x110/images/22acc75c-8099-4403-a558-89478ae937cc/IBM_20Z_20101_20Professional_20Certificate.png)](http://www.credly.com/badges/5e9610dd-a1ed-439f-9cca-a3f387468541 "IBM Z 101 Certificate")
-[![Cybersecurity Awareness - CAPC](https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](http://www.credly.com/badges/e8afa904-736e-45c8-8ad2-c0f0cf7e0f18 "Cybersecurity Awareness - CAPC")
+[![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](http://www.credly.com/badges/e8afa904-736e-45c8-8ad2-c0f0cf7e0f18 "Cybersecurity Awareness - CAPC !")
 [![IBM API Connect 10 Developer](https://images.credly.com/size/110x110/images/ed5ebfb0-e88f-4f24-a1d9-0041dedc8ad0/image.png)](http://www.credly.com/badges/59460df9-9060-4cf8-8c57-fb22f6a8ae9d "IBM API Connect 10 Developer")
 [![Variational Algorithm Design](https://images.credly.com/size/110x110/images/3ac1a6a1-ea8c-44ea-9eaf-03458d10b19f/image.png)](http://www.credly.com/badges/197f337c-0759-4816-98ed-78a003a18379 "Variational Algorithm Design")
 [![IBM watsonx Orchestrate: Getting Started with Automation Builder](https://images.credly.com/size/110x110/images/953dc232-9669-4cf9-a8e3-c62cfd448c20/IBM_20watsonx_20Orchestrate_20Getting_20Started_20with_20Autom_20Builder.png)](http://www.credly.com/badges/efd42520-0005-4cd1-ab3f-b8d001399366 "IBM watsonx Orchestrate: Getting Started with Automation Builder")
