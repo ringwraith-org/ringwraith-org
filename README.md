@@ -83,6 +83,7 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Qiskit Global Summer School 2024 - Quantum Excellence](https://images.credly.com/size/110x110/images/d7c78aeb-2731-483f-ac65-06e349caba69/Qiskit_20Global_20Summer_20School_202024_20Quantum_20Excellence.png)](http://www.credly.com/badges/bb85684a-0383-4deb-a7d0-fecb14182255 "Qiskit Global Summer School 2024 - Quantum Excellence")
 [![IBM Z 101 Certificate](https://images.credly.com/size/110x110/images/22acc75c-8099-4403-a558-89478ae937cc/IBM_20Z_20101_20Professional_20Certificate.png)](http://www.credly.com/badges/5e9610dd-a1ed-439f-9cca-a3f387468541 "IBM Z 101 Certificate")
 [![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](http://www.credly.com/badges/e8afa904-736e-45c8-8ad2-c0f0cf7e0f18 "Cybersecurity Awareness - CAPC !")
 [![IBM API Connect 10 Developer](https://images.credly.com/size/110x110/images/ed5ebfb0-e88f-4f24-a1d9-0041dedc8ad0/image.png)](http://www.credly.com/badges/59460df9-9060-4cf8-8c57-fb22f6a8ae9d "IBM API Connect 10 Developer")
@@ -130,6 +131,5 @@ My most recent badges:
 [![LFS144: Introduction to Istio](https://images.credly.com/size/110x110/images/3f0a02f5-d72b-4e90-bcf9-e86e4a938456/image.png)](http://www.credly.com/badges/61e617a1-7472-4a8d-8f6a-34327bf77904 "LFS144: Introduction to Istio")
 [![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/110x110/images/ca60f290-ab82-476a-8ea0-af2bef5ca7ca/image.png)](http://www.credly.com/badges/20f10c7f-44f6-44bf-a781-341e8c91e5d1 "LFEL1014: Scaling Cloud Native Applications with KEDA")
 [![LFC120: Leading High-Performance Working Group Meetings](https://images.credly.com/size/110x110/images/08199f3b-6acb-4155-b64c-3804e6d04bdb/image.png)](http://www.credly.com/badges/047cf9fb-f9ce-4c31-9d94-73b7fdffb581 "LFC120: Leading High-Performance Working Group Meetings")
-[![LFEL1011: OpenAPI Fundamentals](https://images.credly.com/size/110x110/images/310767de-989a-45b8-a902-b8a09835a4db/image.png)](http://www.credly.com/badges/1aa96715-b2fa-4e37-841f-e1903cb50c77 "LFEL1011: OpenAPI Fundamentals")
 <!--END_SECTION:badges-->
 </details>
