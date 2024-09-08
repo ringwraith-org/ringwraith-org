@@ -83,6 +83,8 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM Cloud Pak for Data 5.0: Technical Essentials](https://images.credly.com/size/110x110/images/a441e4eb-14d4-4374-9b6d-3900103d22b0/IBM_20Cloud_20Pak_20for_20Data_205_200_20Technical_20Essentials.png)](http://www.credly.com/badges/9d357b41-dd5d-4b7d-baad-6e9763165ffd "IBM Cloud Pak for Data 5.0: Technical Essentials")
+[![IBM i Ready](https://images.credly.com/size/110x110/images/6e9cbcab-fa63-4935-8d6a-3d370d0c4827/IBM_20i_20Ready.png)](http://www.credly.com/badges/aec086cf-f889-42ef-b5e5-6c8eabbba54e "IBM i Ready")
 [![Qiskit Global Summer School 2024 - Quantum Excellence](https://images.credly.com/size/110x110/images/d7c78aeb-2731-483f-ac65-06e349caba69/Qiskit_20Global_20Summer_20School_202024_20Quantum_20Excellence.png)](http://www.credly.com/badges/bb85684a-0383-4deb-a7d0-fecb14182255 "Qiskit Global Summer School 2024 - Quantum Excellence")
 [![IBM Z 101 Certificate](https://images.credly.com/size/110x110/images/22acc75c-8099-4403-a558-89478ae937cc/IBM_20Z_20101_20Professional_20Certificate.png)](http://www.credly.com/badges/5e9610dd-a1ed-439f-9cca-a3f387468541 "IBM Z 101 Certificate")
 [![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](http://www.credly.com/badges/e8afa904-736e-45c8-8ad2-c0f0cf7e0f18 "Cybersecurity Awareness - CAPC !")
@@ -129,7 +131,5 @@ My most recent badges:
 [![LFD110: Introduction to RISC-V](https://images.credly.com/size/110x110/images/872b6122-fa88-4436-9ee6-e6567dad88e9/image.png)](http://www.credly.com/badges/79d0bce3-3ae3-48b5-a7ad-4b6d2e8502b8 "LFD110: Introduction to RISC-V")
 [![LFS118: Ethical Principles for Conversational AI](https://images.credly.com/size/110x110/images/b8325773-2933-49b4-917b-9d1c6a03f9f2/image.png)](http://www.credly.com/badges/3e023f66-121e-4deb-9a71-19dee9c2cc0e "LFS118: Ethical Principles for Conversational AI")
 [![LFS144: Introduction to Istio](https://images.credly.com/size/110x110/images/3f0a02f5-d72b-4e90-bcf9-e86e4a938456/image.png)](http://www.credly.com/badges/61e617a1-7472-4a8d-8f6a-34327bf77904 "LFS144: Introduction to Istio")
-[![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/110x110/images/ca60f290-ab82-476a-8ea0-af2bef5ca7ca/image.png)](http://www.credly.com/badges/20f10c7f-44f6-44bf-a781-341e8c91e5d1 "LFEL1014: Scaling Cloud Native Applications with KEDA")
-[![LFC120: Leading High-Performance Working Group Meetings](https://images.credly.com/size/110x110/images/08199f3b-6acb-4155-b64c-3804e6d04bdb/image.png)](http://www.credly.com/badges/047cf9fb-f9ce-4c31-9d94-73b7fdffb581 "LFC120: Leading High-Performance Working Group Meetings")
 <!--END_SECTION:badges-->
 </details>
