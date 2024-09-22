@@ -83,9 +83,11 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Foundations of Cyber Threat Intelligence](https://images.credly.com/size/110x110/images/5a77473d-f363-4cb2-9e93-4ca4de1f3bd2/image.png)](http://www.credly.com/badges/648eaedb-5ba1-4a33-8167-6e31bc796074 "Foundations of Cyber Threat Intelligence")
+[![Agentless Threat Emulation with AttackIQ Flex v2](https://images.credly.com/size/110x110/images/4c5f5e63-c7e2-434e-8f6f-a571c201f323/image.png)](http://www.credly.com/badges/eb9b004f-5073-433b-96d0-7812b706491d "Agentless Threat Emulation with AttackIQ Flex v2")
 [![IBM Cloud Pak for Data 5.0: Technical Essentials](https://images.credly.com/size/110x110/images/a441e4eb-14d4-4374-9b6d-3900103d22b0/IBM_20Cloud_20Pak_20for_20Data_205_200_20Technical_20Essentials.png)](http://www.credly.com/badges/9d357b41-dd5d-4b7d-baad-6e9763165ffd "IBM Cloud Pak for Data 5.0: Technical Essentials")
 [![IBM i Ready](https://images.credly.com/size/110x110/images/6e9cbcab-fa63-4935-8d6a-3d370d0c4827/IBM_20i_20Ready.png)](http://www.credly.com/badges/aec086cf-f889-42ef-b5e5-6c8eabbba54e "IBM i Ready")
-[![Qiskit Global Summer School 2024 - Quantum Excellence](https://images.credly.com/size/110x110/images/d7c78aeb-2731-483f-ac65-06e349caba69/Qiskit_20Global_20Summer_20School_202024_20Quantum_20Excellence.png)](http://www.credly.com/badges/bb85684a-0383-4deb-a7d0-fecb14182255 "Qiskit Global Summer School 2024 - Quantum Excellence")
+[![Qiskit Global Summer School 2024 - Quantum Excellence](https://images.credly.com/size/110x110/images/d7c78aeb-2731-483f-ac65-06e349caba69/Qiskit_20Global_20Summer_20School_202024_20Quantum_20Excellence.png)](http://www.credly.com/badges/c649436d-959f-4a47-adc5-6355edf60bfc "Qiskit Global Summer School 2024 - Quantum Excellence")
 [![IBM Z 101 Certificate](https://images.credly.com/size/110x110/images/22acc75c-8099-4403-a558-89478ae937cc/IBM_20Z_20101_20Professional_20Certificate.png)](http://www.credly.com/badges/5e9610dd-a1ed-439f-9cca-a3f387468541 "IBM Z 101 Certificate")
 [![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](http://www.credly.com/badges/e8afa904-736e-45c8-8ad2-c0f0cf7e0f18 "Cybersecurity Awareness - CAPC !")
 [![IBM API Connect 10 Developer](https://images.credly.com/size/110x110/images/ed5ebfb0-e88f-4f24-a1d9-0041dedc8ad0/image.png)](http://www.credly.com/badges/59460df9-9060-4cf8-8c57-fb22f6a8ae9d "IBM API Connect 10 Developer")
@@ -129,7 +131,5 @@ My most recent badges:
 [![LFC114: Remote Work at Scale](https://images.credly.com/size/110x110/images/4e7092ff-b0df-4a99-8c57-dd9c3fa9c1f5/blob)](http://www.credly.com/badges/5d4d0e80-7fbd-4532-8944-184526ba9a65 "LFC114: Remote Work at Scale")
 [![LFEL1005: Security Self-Assessments for Open Source Projects](https://images.credly.com/size/110x110/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob)](http://www.credly.com/badges/6f7a97a4-7907-4ac9-a6a1-168ca35fb2ad "LFEL1005: Security Self-Assessments for Open Source Projects")
 [![LFD110: Introduction to RISC-V](https://images.credly.com/size/110x110/images/fc83d55f-1da9-4cd2-815b-ac03cb46ec1c/blob)](http://www.credly.com/badges/79d0bce3-3ae3-48b5-a7ad-4b6d2e8502b8 "LFD110: Introduction to RISC-V")
-[![LFS118: Ethical Principles for Conversational AI](https://images.credly.com/size/110x110/images/d504af50-e3f2-4fc8-87bb-9d4452fb09f9/blob)](http://www.credly.com/badges/3e023f66-121e-4deb-9a71-19dee9c2cc0e "LFS118: Ethical Principles for Conversational AI")
-[![LFS144: Introduction to Istio](https://images.credly.com/size/110x110/images/6166f9b5-2213-45f5-b7de-ba0e58048d23/blob)](http://www.credly.com/badges/61e617a1-7472-4a8d-8f6a-34327bf77904 "LFS144: Introduction to Istio")
 <!--END_SECTION:badges-->
 </details>
