@@ -130,6 +130,6 @@ My most recent badges:
 [![LFS179: Introduction to Nephio](https://images.credly.com/size/110x110/images/764dabf3-73eb-40e1-9d75-4218b7f6c984/blob)](http://www.credly.com/badges/8b050cc7-8842-4e8a-97f7-3f55ed89b748 "LFS179: Introduction to Nephio")
 [![LFC114: Remote Work at Scale](https://images.credly.com/size/110x110/images/4e7092ff-b0df-4a99-8c57-dd9c3fa9c1f5/blob)](http://www.credly.com/badges/5d4d0e80-7fbd-4532-8944-184526ba9a65 "LFC114: Remote Work at Scale")
 [![LFEL1005: Security Self-Assessments for Open Source Projects](https://images.credly.com/size/110x110/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob)](http://www.credly.com/badges/6f7a97a4-7907-4ac9-a6a1-168ca35fb2ad "LFEL1005: Security Self-Assessments for Open Source Projects")
-[![LFD110: Introduction to RISC-V](https://images.credly.com/size/110x110/images/fc83d55f-1da9-4cd2-815b-ac03cb46ec1c/blob)](http://www.credly.com/badges/79d0bce3-3ae3-48b5-a7ad-4b6d2e8502b8 "LFD110: Introduction to RISC-V")
+[![LFD110: Introduction to RISC-V](https://images.credly.com/size/110x110/images/fe724d20-7a05-417e-b10a-29e458a3fc04/blob)](http://www.credly.com/badges/79d0bce3-3ae3-48b5-a7ad-4b6d2e8502b8 "LFD110: Introduction to RISC-V")
 <!--END_SECTION:badges-->
 </details>
