@@ -83,6 +83,7 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Proofpoint Certified DLP Specialist 2024](https://images.credly.com/size/110x110/images/81aeae94-5a93-4e56-919c-d7f01876e138/blob)](http://www.credly.com/badges/9c614455-de80-44aa-861f-4116422d4b73 "Proofpoint Certified DLP Specialist 2024")
 [![Foundations of Cyber Threat Intelligence](https://images.credly.com/size/110x110/images/5a77473d-f363-4cb2-9e93-4ca4de1f3bd2/image.png)](http://www.credly.com/badges/648eaedb-5ba1-4a33-8167-6e31bc796074 "Foundations of Cyber Threat Intelligence")
 [![Agentless Threat Emulation with AttackIQ Flex v2](https://images.credly.com/size/110x110/images/4c5f5e63-c7e2-434e-8f6f-a571c201f323/image.png)](http://www.credly.com/badges/eb9b004f-5073-433b-96d0-7812b706491d "Agentless Threat Emulation with AttackIQ Flex v2")
 [![IBM Cloud Pak for Data 5.0: Technical Essentials](https://images.credly.com/size/110x110/images/a441e4eb-14d4-4374-9b6d-3900103d22b0/IBM_20Cloud_20Pak_20for_20Data_205_200_20Technical_20Essentials.png)](http://www.credly.com/badges/9d357b41-dd5d-4b7d-baad-6e9763165ffd "IBM Cloud Pak for Data 5.0: Technical Essentials")
@@ -130,6 +131,5 @@ My most recent badges:
 [![LFS179: Introduction to Nephio](https://images.credly.com/size/110x110/images/764dabf3-73eb-40e1-9d75-4218b7f6c984/blob)](http://www.credly.com/badges/8b050cc7-8842-4e8a-97f7-3f55ed89b748 "LFS179: Introduction to Nephio")
 [![LFC114: Remote Work at Scale](https://images.credly.com/size/110x110/images/4e7092ff-b0df-4a99-8c57-dd9c3fa9c1f5/blob)](http://www.credly.com/badges/5d4d0e80-7fbd-4532-8944-184526ba9a65 "LFC114: Remote Work at Scale")
 [![LFEL1005: Security Self-Assessments for Open Source Projects](https://images.credly.com/size/110x110/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob)](http://www.credly.com/badges/6f7a97a4-7907-4ac9-a6a1-168ca35fb2ad "LFEL1005: Security Self-Assessments for Open Source Projects")
-[![LFD110: Introduction to RISC-V](https://images.credly.com/size/110x110/images/fe724d20-7a05-417e-b10a-29e458a3fc04/blob)](http://www.credly.com/badges/79d0bce3-3ae3-48b5-a7ad-4b6d2e8502b8 "LFD110: Introduction to RISC-V")
 <!--END_SECTION:badges-->
 </details>
