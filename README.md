@@ -83,6 +83,12 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Credly Top Legacy Badge Earner](https://images.credly.com/size/110x110/images/3cfeed0f-fbfe-456e-ae16-d2c866fb06e7/blob)](http://www.credly.com/badges/6e998bfa-b96c-4fef-b1a5-fb26bdeffacb "Credly Top Legacy Badge Earner")
+[![Credly Top Badge Earner of 2024](https://images.credly.com/size/110x110/images/fab17a1a-d69a-43b3-a619-14c85f5afb90/blob)](http://www.credly.com/badges/528341d0-8602-4d41-929d-b48ee3d71204 "Credly Top Badge Earner of 2024")
+[![Quantum Business Foundations](https://images.credly.com/size/110x110/images/f786ecd2-dce6-49d1-b7c6-6dcd832f8b14/image.png)](http://www.credly.com/badges/d11cb036-fff4-40ba-a825-0ab7737416f9 "Quantum Business Foundations")
+[![Cloud native development with IBM Z and Cloud Modernization Stack Fundamentals](https://images.credly.com/size/110x110/images/d66e6add-54a5-4046-8ddf-045a21edd442/image.png)](http://www.credly.com/badges/e477f2c1-5930-44b5-b966-ed461e5165d0 "Cloud native development with IBM Z and Cloud Modernization Stack Fundamentals")
+[![Generative AI for Human Resources Specialization](https://images.credly.com/size/110x110/images/b62e6769-90c4-46ee-9faf-6deb4576e358/Coursera_20Generative_20AI_20for_20Human_20Resources_20Specialization.png)](http://www.credly.com/badges/23a822fb-536d-4ac0-83c4-cf44e61f9bb8 "Generative AI for Human Resources Specialization")
+[![IBM Shared Memory Communications Essentials](https://images.credly.com/size/110x110/images/cc91c8eb-3676-40d9-8a25-73f1574e4475/image.png)](http://www.credly.com/badges/0ef47b3e-baa4-448d-b94f-751b4a08c304 "IBM Shared Memory Communications Essentials")
 [![Proofpoint Certified DLP Specialist 2024](https://images.credly.com/size/110x110/images/81aeae94-5a93-4e56-919c-d7f01876e138/blob)](http://www.credly.com/badges/9c614455-de80-44aa-861f-4116422d4b73 "Proofpoint Certified DLP Specialist 2024")
 [![Foundations of Cyber Threat Intelligence](https://images.credly.com/size/110x110/images/5a77473d-f363-4cb2-9e93-4ca4de1f3bd2/image.png)](http://www.credly.com/badges/648eaedb-5ba1-4a33-8167-6e31bc796074 "Foundations of Cyber Threat Intelligence")
 [![Agentless Threat Emulation with AttackIQ Flex v2](https://images.credly.com/size/110x110/images/4c5f5e63-c7e2-434e-8f6f-a571c201f323/image.png)](http://www.credly.com/badges/eb9b004f-5073-433b-96d0-7812b706491d "Agentless Threat Emulation with AttackIQ Flex v2")
@@ -125,11 +131,5 @@ My most recent badges:
 [![LFS142: Introduction to Backstage - Developer Portals Made Easy](https://images.credly.com/size/110x110/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob)](http://www.credly.com/badges/b4fc9db8-6c79-4527-be69-2942977ee8fe "LFS142: Introduction to Backstage - Developer Portals Made Easy")
 [![LFS101: Introduction to Linux](https://images.credly.com/size/110x110/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](http://www.credly.com/badges/4bafe91a-6b3d-46c2-bffc-c8c0441133ac "LFS101: Introduction to Linux")
 [![LFS112: Ethics in AI and Data Science](https://images.credly.com/size/110x110/images/ec31c32f-3594-40ec-951b-75720d07efbf/blob)](http://www.credly.com/badges/b424361d-b97a-4ce3-979a-3a601908f801 "LFS112: Ethics in AI and Data Science")
-[![LFD133: Introduction to WebAssembly](https://images.credly.com/size/110x110/images/c8c237d0-9abf-4752-840b-4a0801753975/blob)](http://www.credly.com/badges/b84de620-58ee-4287-aee6-697d5628873e "LFD133: Introduction to WebAssembly")
-[![LFS166: Introduction to Magma - Cloud Native Wireless Networking](https://images.credly.com/size/110x110/images/3e2b162f-ef24-4e08-b663-062b64632cc7/blob)](http://www.credly.com/badges/f19c90ab-ac27-48d3-a870-6afa1563545f "LFS166: Introduction to Magma - Cloud Native Wireless Networking")
-[![LFS171: Introduction to Hyperledger Blockchain Technologies](https://images.credly.com/size/110x110/images/6f5b47e6-a4d9-45fa-84c0-79adfdd8dafd/blob)](http://www.credly.com/badges/5b15b6f5-43e6-48db-a129-6ed562d2b891 "LFS171: Introduction to Hyperledger Blockchain Technologies")
-[![LFS179: Introduction to Nephio](https://images.credly.com/size/110x110/images/764dabf3-73eb-40e1-9d75-4218b7f6c984/blob)](http://www.credly.com/badges/8b050cc7-8842-4e8a-97f7-3f55ed89b748 "LFS179: Introduction to Nephio")
-[![LFC114: Remote Work at Scale](https://images.credly.com/size/110x110/images/4e7092ff-b0df-4a99-8c57-dd9c3fa9c1f5/blob)](http://www.credly.com/badges/5d4d0e80-7fbd-4532-8944-184526ba9a65 "LFC114: Remote Work at Scale")
-[![LFEL1005: Security Self-Assessments for Open Source Projects](https://images.credly.com/size/110x110/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob)](http://www.credly.com/badges/6f7a97a4-7907-4ac9-a6a1-168ca35fb2ad "LFEL1005: Security Self-Assessments for Open Source Projects")
 <!--END_SECTION:badges-->
 </details>
