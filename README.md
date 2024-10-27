@@ -83,6 +83,8 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM Cloud Advanced Architect Concepts v2](https://images.credly.com/size/110x110/images/b4236798-de71-4e08-a709-def51589c077/IBM_20Cloud_20Advanced_20Architect_20Concepts_20V2.png)](http://www.credly.com/badges/abbe6091-613b-4d41-bde9-91ea2be8a86b "IBM Cloud Advanced Architect Concepts v2")
+[![IBM watsonx.governance: Technical Essentials](https://images.credly.com/size/110x110/images/20ae06b0-32a3-422a-a59f-70f67f9123fe/IBM_20watsonx_20governance_20Technical_20Essentials.png)](http://www.credly.com/badges/47650035-6c3d-416d-887c-aa45e15ca331 "IBM watsonx.governance: Technical Essentials")
 [![Credly Top Legacy Badge Earner](https://images.credly.com/size/110x110/images/3cfeed0f-fbfe-456e-ae16-d2c866fb06e7/blob)](http://www.credly.com/badges/6e998bfa-b96c-4fef-b1a5-fb26bdeffacb "Credly Top Legacy Badge Earner")
 [![Credly Top Badge Earner of 2024](https://images.credly.com/size/110x110/images/fab17a1a-d69a-43b3-a619-14c85f5afb90/blob)](http://www.credly.com/badges/528341d0-8602-4d41-929d-b48ee3d71204 "Credly Top Badge Earner of 2024")
 [![Quantum Business Foundations](https://images.credly.com/size/110x110/images/f786ecd2-dce6-49d1-b7c6-6dcd832f8b14/image.png)](http://www.credly.com/badges/d11cb036-fff4-40ba-a825-0ab7737416f9 "Quantum Business Foundations")
@@ -129,7 +131,5 @@ My most recent badges:
 [![LFS183: Introduction to Zero Trust](https://images.credly.com/size/110x110/images/030d09ff-a748-4dad-a76f-da3fc4d2c25b/blob)](http://www.credly.com/badges/096a7220-b08e-41f0-b8d9-9ad5285a4893 "LFS183: Introduction to Zero Trust")
 [![LFS180: Introduction to DevSecOps for Managers](https://images.credly.com/size/110x110/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob)](http://www.credly.com/badges/31e16d73-cd4e-4f92-a6e5-dc26d66f6231 "LFS180: Introduction to DevSecOps for Managers")
 [![LFS142: Introduction to Backstage - Developer Portals Made Easy](https://images.credly.com/size/110x110/images/7caa3e89-2da5-4afc-a694-ebc4c5045c8f/blob)](http://www.credly.com/badges/b4fc9db8-6c79-4527-be69-2942977ee8fe "LFS142: Introduction to Backstage - Developer Portals Made Easy")
-[![LFS101: Introduction to Linux](https://images.credly.com/size/110x110/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)](http://www.credly.com/badges/4bafe91a-6b3d-46c2-bffc-c8c0441133ac "LFS101: Introduction to Linux")
-[![LFS112: Ethics in AI and Data Science](https://images.credly.com/size/110x110/images/ec31c32f-3594-40ec-951b-75720d07efbf/blob)](http://www.credly.com/badges/b424361d-b97a-4ce3-979a-3a601908f801 "LFS112: Ethics in AI and Data Science")
 <!--END_SECTION:badges-->
 </details>
