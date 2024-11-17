@@ -83,6 +83,10 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Vector Database Essentials: Setup, Configuration and Operations](https://images.credly.com/size/110x110/images/43cdb260-3a84-4c59-bc5a-41b2f646dbcf/image.png)](http://www.credly.com/badges/8f8c9a4a-38c6-4b4a-a36a-265cac8b8b51 "Vector Database Essentials: Setup, Configuration and Operations")
+[![Cybersecurity Job Search, Resume, and Interview Prep](https://images.credly.com/size/110x110/images/a6525eb2-4761-4bdf-b9a0-d28219d5a8ae/image.png)](http://www.credly.com/badges/93106ab8-6682-4eb0-b600-26f6b359c1df "Cybersecurity Job Search, Resume, and Interview Prep")
+[![Introduction to HTML, CSS, & JavaScript](https://images.credly.com/size/110x110/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png)](http://www.credly.com/badges/bf2530e6-6b99-439d-9099-9451105cbd6e "Introduction to HTML, CSS, & JavaScript")
+[![How to Modernize Applications with IBM CICS](https://images.credly.com/size/110x110/images/f21ca8d2-d243-4a56-8480-02200d43ace8/image.png)](http://www.credly.com/badges/a89eebf7-15ac-4c26-8a7f-f70182729d13 "How to Modernize Applications with IBM CICS")
 [![Generative AI and LLMs: Architecture and Data Preparation](https://images.credly.com/size/110x110/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png)](http://www.credly.com/badges/0da6b5dd-768e-4663-b4d9-479d52d3bf17 "Generative AI and LLMs: Architecture and Data Preparation")
 [![LFC101: Inclusive Speaker Orientation](https://images.credly.com/size/110x110/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob)](http://www.credly.com/badges/b7a0cef3-9bc1-430c-8081-666c7b274a71 "LFC101: Inclusive Speaker Orientation")
 [![LFC102: Inclusive Open Source Community Orientation](https://images.credly.com/size/110x110/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob)](http://www.credly.com/badges/83a67e77-4032-46b5-83c3-5f2c8bd76813 "LFC102: Inclusive Open Source Community Orientation")
@@ -127,9 +131,5 @@ My most recent badges:
 [![Git and GitHub Essentials](https://images.credly.com/size/110x110/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)](http://www.credly.com/badges/3173bd01-1c6a-4e82-8041-0678211be1d8 "Git and GitHub Essentials")
 [![Maturing Threat-Informed Defense with M3TID](https://images.credly.com/size/110x110/images/a4087ac2-8347-47cd-bcb5-86a999929bfc/image.png)](http://www.credly.com/badges/4f8951a2-5411-4c34-98cf-8ae25f060dfb "Maturing Threat-Informed Defense with M3TID")
 [![IMS Physical Organization of Databases](https://images.credly.com/size/110x110/images/4a2b285f-db0d-49cc-b241-746f9f2c874e/IMS_20Physical_20Organization_20of_20Databases.png)](http://www.credly.com/badges/bc21689a-d4f7-40e4-b4bb-01025f511f54 "IMS Physical Organization of Databases")
-[![Liberty Developer Essentials](https://images.credly.com/size/110x110/images/a3d67ea4-2423-485f-abf0-8f08b194a3c3/IBM_20Liberty_20Developer_20Essentials.png)](http://www.credly.com/badges/4588c26e-e82d-4e6a-b620-f8c1239ceced "Liberty Developer Essentials")
-[![Summer Security Foundations](https://images.credly.com/size/110x110/images/bf27c60d-7c33-4d5f-9296-f5f52986eb94/image.png)](http://www.credly.com/badges/637a5a05-dc63-443d-b63c-861fdeedaa0c "Summer Security Foundations")
-[![Generative AI Essentials for Software Developers](https://images.credly.com/size/110x110/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png)](http://www.credly.com/badges/63b93a50-f5bf-4294-84c0-fa4ee601455a "Generative AI Essentials for Software Developers")
-[![Monitoring and Platform APIs for IBM Cloud Pak for Data V4.7](https://images.credly.com/size/110x110/images/c5b135e9-14b7-4522-b944-9f4897d451d9/Monitoring_20and_20Platform_20APIS_20for_20Cld_20Pak_20for_20Data_20V4_207.png)](http://www.credly.com/badges/a1e585eb-c28f-45d9-abf6-7052e971b998 "Monitoring and Platform APIs for IBM Cloud Pak for Data V4.7")
 <!--END_SECTION:badges-->
 </details>
