@@ -83,6 +83,7 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Web Development with HTML, CSS, JavaScript Essentials](https://images.credly.com/size/110x110/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png)](http://www.credly.com/badges/0ba6faca-7b1c-4313-b3c9-cca83473af8a "Web Development with HTML, CSS, JavaScript Essentials")
 [![Vector Database Essentials: Setup, Configuration and Operations](https://images.credly.com/size/110x110/images/43cdb260-3a84-4c59-bc5a-41b2f646dbcf/image.png)](http://www.credly.com/badges/8f8c9a4a-38c6-4b4a-a36a-265cac8b8b51 "Vector Database Essentials: Setup, Configuration and Operations")
 [![Cybersecurity Job Search, Resume, and Interview Prep](https://images.credly.com/size/110x110/images/a6525eb2-4761-4bdf-b9a0-d28219d5a8ae/image.png)](http://www.credly.com/badges/93106ab8-6682-4eb0-b600-26f6b359c1df "Cybersecurity Job Search, Resume, and Interview Prep")
 [![Introduction to HTML, CSS, & JavaScript](https://images.credly.com/size/110x110/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png)](http://www.credly.com/badges/bf2530e6-6b99-439d-9099-9451105cbd6e "Introduction to HTML, CSS, & JavaScript")
@@ -130,6 +131,5 @@ My most recent badges:
 [![Cybersecurity IT Fundamentals Specialization](https://images.credly.com/size/110x110/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png)](http://www.credly.com/badges/a36b5b62-c306-47b6-ac9c-69a79830999f "Cybersecurity IT Fundamentals Specialization")
 [![Git and GitHub Essentials](https://images.credly.com/size/110x110/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)](http://www.credly.com/badges/3173bd01-1c6a-4e82-8041-0678211be1d8 "Git and GitHub Essentials")
 [![Maturing Threat-Informed Defense with M3TID](https://images.credly.com/size/110x110/images/a4087ac2-8347-47cd-bcb5-86a999929bfc/image.png)](http://www.credly.com/badges/4f8951a2-5411-4c34-98cf-8ae25f060dfb "Maturing Threat-Informed Defense with M3TID")
-[![IMS Physical Organization of Databases](https://images.credly.com/size/110x110/images/4a2b285f-db0d-49cc-b241-746f9f2c874e/IMS_20Physical_20Organization_20of_20Databases.png)](http://www.credly.com/badges/bc21689a-d4f7-40e4-b4bb-01025f511f54 "IMS Physical Organization of Databases")
 <!--END_SECTION:badges-->
 </details>
