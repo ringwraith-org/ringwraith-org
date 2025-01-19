@@ -83,6 +83,7 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM z/OS Security Essentials](https://images.credly.com/size/110x110/images/403306a9-ed66-4a7e-bb2c-6daf2931b2da/IBM_20zOS_20Security_20Essentials.png)](http://www.credly.com/badges/9c74e25b-3983-4e1e-8f79-101e96546c39 "IBM z/OS Security Essentials")
 [![Design Sprint Learner](https://images.credly.com/size/110x110/images/4167ffc5-9df7-4163-8735-58d5749a6de5/blob)](http://www.credly.com/badges/e61c237d-3af3-4516-8da6-e9732f6c381a "Design Sprint Learner")
 [![Introduction to the Fruit Industry – Fruit to the World](https://images.credly.com/size/110x110/images/fc46b6db-c4f2-415f-8c2c-5bb236812c3d/go-horticulture-fruit-to-the-world-mc-badge.png)](http://www.credly.com/badges/ee117c38-91c6-4e42-93c6-046180d97d0c "Introduction to the Fruit Industry – Fruit to the World")
 [![Designing User Interfaces and Experiences (UI/UX)](https://images.credly.com/size/110x110/images/e3d5731b-dfc8-4ba9-aea5-6036e6e60454/image.png)](http://www.credly.com/badges/347c5095-9048-430c-b240-ba9a6750250c "Designing User Interfaces and Experiences (UI/UX)")
@@ -130,6 +131,5 @@ My most recent badges:
 [![LFS148: Getting Started with OpenTelemetry](https://images.credly.com/size/110x110/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob)](http://www.credly.com/badges/e98fc037-3049-4f4b-9c0c-5e9dc6b86d6f "LFS148: Getting Started with OpenTelemetry")
 [![LFEL1016: Introduction to to the Common Domain Model (CDM)](https://images.credly.com/size/110x110/images/655c6902-8aab-46f5-a847-4ff00628c498/blob)](http://www.credly.com/badges/956d8aea-b076-40fb-97ea-0cf19f0c6b16 "LFEL1016: Introduction to to the Common Domain Model (CDM)")
 [![LFS111: Open Source and the 5G Transition](https://images.credly.com/size/110x110/images/2a7254bb-1832-40aa-912a-7f85900f93ce/blob)](http://www.credly.com/badges/f4343071-89e9-4596-bd18-e3977d37b267 "LFS111: Open Source and the 5G Transition")
-[![Generative AI Language Modeling with Transformers](https://images.credly.com/size/110x110/images/bc7582ae-95c6-4e92-a425-d355c65b7d10/image.png)](http://www.credly.com/badges/e943200a-b8a2-4f69-8a77-340bba73d0bf "Generative AI Language Modeling with Transformers")
 <!--END_SECTION:badges-->
 </details>
