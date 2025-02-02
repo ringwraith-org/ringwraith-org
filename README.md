@@ -83,6 +83,7 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IMS Logical Relationships](https://images.credly.com/size/110x110/images/37c501ad-88dc-45be-b8d3-c9a2e50e8d59/IMS_20Logical_20Relationships.png)](http://www.credly.com/badges/adecac73-652b-4fd2-b1fb-0d954f715d41 "IMS Logical Relationships")
 [![Fundamentals of Business Analysis](https://images.credly.com/size/110x110/images/d6eac5b8-d04b-4cc8-bf64-4b7900186c10/Coursera_20Fundamentals_20of_20Business_20Analysis.png)](http://www.credly.com/badges/debce1ad-8438-4585-8615-0df731e56746 "Fundamentals of Business Analysis")
 [![IBM z/OS Security Essentials](https://images.credly.com/size/110x110/images/403306a9-ed66-4a7e-bb2c-6daf2931b2da/IBM_20zOS_20Security_20Essentials.png)](http://www.credly.com/badges/9c74e25b-3983-4e1e-8f79-101e96546c39 "IBM z/OS Security Essentials")
 [![Design Sprint Learner](https://images.credly.com/size/110x110/images/4167ffc5-9df7-4163-8735-58d5749a6de5/blob)](http://www.credly.com/badges/e61c237d-3af3-4516-8da6-e9732f6c381a "Design Sprint Learner")
@@ -130,6 +131,5 @@ My most recent badges:
 [![LFD134: WebAssembly Components - From Cloud to Edge](https://images.credly.com/size/110x110/images/da88c4ee-7962-42f9-bcdc-4485e509a629/blob)](http://www.credly.com/badges/abc2fe78-5950-4156-a000-f01187d2c8cf "LFD134: WebAssembly Components - From Cloud to Edge")
 [![LFEL1010: XSS Exploits and Defenses](https://images.credly.com/size/110x110/images/4bed41e1-eab6-48e1-bc8f-00a44d331311/image.png)](http://www.credly.com/badges/da50a504-4b22-480a-aa75-f14b445a7d9a "LFEL1010: XSS Exploits and Defenses")
 [![LFS148: Getting Started with OpenTelemetry](https://images.credly.com/size/110x110/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob)](http://www.credly.com/badges/e98fc037-3049-4f4b-9c0c-5e9dc6b86d6f "LFS148: Getting Started with OpenTelemetry")
-[![LFEL1016: Introduction to to the Common Domain Model (CDM)](https://images.credly.com/size/110x110/images/655c6902-8aab-46f5-a847-4ff00628c498/blob)](http://www.credly.com/badges/956d8aea-b076-40fb-97ea-0cf19f0c6b16 "LFEL1016: Introduction to to the Common Domain Model (CDM)")
 <!--END_SECTION:badges-->
 </details>
