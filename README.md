@@ -83,6 +83,8 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Maximo Manage: Functional Administration and User Management](https://images.credly.com/size/110x110/images/178e7a1b-e6eb-44e0-85d4-c2a2298045b9/Maximo_20Manage_20Functional_20Administration.png)](http://www.credly.com/badges/f2e0b342-1573-4ee1-b764-309bca06706e "Maximo Manage: Functional Administration and User Management")
+[![webMethods API Management Basic](https://images.credly.com/size/110x110/images/cad579f3-8c2d-4288-9bda-0b3f16311430/blob)](http://www.credly.com/badges/eda68d22-e415-4601-a35a-ddb42fef8b41 "webMethods API Management Basic")
 [![IMS Logical Relationships](https://images.credly.com/size/110x110/images/37c501ad-88dc-45be-b8d3-c9a2e50e8d59/IMS_20Logical_20Relationships.png)](http://www.credly.com/badges/adecac73-652b-4fd2-b1fb-0d954f715d41 "IMS Logical Relationships")
 [![Fundamentals of Business Analysis](https://images.credly.com/size/110x110/images/d6eac5b8-d04b-4cc8-bf64-4b7900186c10/Coursera_20Fundamentals_20of_20Business_20Analysis.png)](http://www.credly.com/badges/debce1ad-8438-4585-8615-0df731e56746 "Fundamentals of Business Analysis")
 [![IBM z/OS Security Essentials](https://images.credly.com/size/110x110/images/403306a9-ed66-4a7e-bb2c-6daf2931b2da/IBM_20zOS_20Security_20Essentials.png)](http://www.credly.com/badges/9c74e25b-3983-4e1e-8f79-101e96546c39 "IBM z/OS Security Essentials")
@@ -129,7 +131,5 @@ My most recent badges:
 [![LFC101: Inclusive Speaker Orientation](https://images.credly.com/size/110x110/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob)](http://www.credly.com/badges/b7a0cef3-9bc1-430c-8081-666c7b274a71 "LFC101: Inclusive Speaker Orientation")
 [![LFC102: Inclusive Open Source Community Orientation](https://images.credly.com/size/110x110/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob)](http://www.credly.com/badges/83a67e77-4032-46b5-83c3-5f2c8bd76813 "LFC102: Inclusive Open Source Community Orientation")
 [![LFD134: WebAssembly Components - From Cloud to Edge](https://images.credly.com/size/110x110/images/da88c4ee-7962-42f9-bcdc-4485e509a629/blob)](http://www.credly.com/badges/abc2fe78-5950-4156-a000-f01187d2c8cf "LFD134: WebAssembly Components - From Cloud to Edge")
-[![LFEL1010: XSS Exploits and Defenses](https://images.credly.com/size/110x110/images/4bed41e1-eab6-48e1-bc8f-00a44d331311/image.png)](http://www.credly.com/badges/da50a504-4b22-480a-aa75-f14b445a7d9a "LFEL1010: XSS Exploits and Defenses")
-[![LFS148: Getting Started with OpenTelemetry](https://images.credly.com/size/110x110/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob)](http://www.credly.com/badges/e98fc037-3049-4f4b-9c0c-5e9dc6b86d6f "LFS148: Getting Started with OpenTelemetry")
 <!--END_SECTION:badges-->
 </details>
