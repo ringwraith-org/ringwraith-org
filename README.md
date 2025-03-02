@@ -83,6 +83,11 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![IBM Z Foundations - Level 1](https://images.credly.com/size/110x110/images/aea62b4f-cae7-4745-93a3-9cedf0aafaf8/IBM_20Z_20Foundations_20Level_201.png)](http://www.credly.com/badges/91905ee8-02b0-4100-ada1-c9e7b5c97ce1 "IBM Z Foundations - Level 1")
+[![Digital Awareness](https://images.credly.com/size/110x110/images/29e7c859-4719-4081-a12f-6bdc073a43d2/image.png)](http://www.credly.com/badges/fd71121d-9a85-4f6e-944d-282e5357791c "Digital Awareness")
+[![AI Fundamentals with IBM SkillsBuild](https://images.credly.com/size/110x110/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png)](http://www.credly.com/badges/dcad106f-c10d-45fb-9b62-4233c3011d34 "AI Fundamentals with IBM SkillsBuild")
+[![Ethical Hacker](https://images.credly.com/size/110x110/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png)](http://www.credly.com/badges/b8d39c38-1039-4333-b80c-41815e8e7139 "Ethical Hacker")
+[![Introduction to Modern AI](https://images.credly.com/size/110x110/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob)](http://www.credly.com/badges/7ea3a690-5054-48c5-b862-d248d090262c "Introduction to Modern AI")
 [![Maximo Manage: Functional Administration and User Management](https://images.credly.com/size/110x110/images/178e7a1b-e6eb-44e0-85d4-c2a2298045b9/Maximo_20Manage_20Functional_20Administration.png)](http://www.credly.com/badges/f2e0b342-1573-4ee1-b764-309bca06706e "Maximo Manage: Functional Administration and User Management")
 [![webMethods API Management Basic](https://images.credly.com/size/110x110/images/cad579f3-8c2d-4288-9bda-0b3f16311430/blob)](http://www.credly.com/badges/eda68d22-e415-4601-a35a-ddb42fef8b41 "webMethods API Management Basic")
 [![IMS Logical Relationships](https://images.credly.com/size/110x110/images/37c501ad-88dc-45be-b8d3-c9a2e50e8d59/IMS_20Logical_20Relationships.png)](http://www.credly.com/badges/adecac73-652b-4fd2-b1fb-0d954f715d41 "IMS Logical Relationships")
@@ -126,10 +131,5 @@ My most recent badges:
 [![Vector Database Essentials: Setup, Configuration and Operations](https://images.credly.com/size/110x110/images/43cdb260-3a84-4c59-bc5a-41b2f646dbcf/image.png)](http://www.credly.com/badges/8f8c9a4a-38c6-4b4a-a36a-265cac8b8b51 "Vector Database Essentials: Setup, Configuration and Operations")
 [![Cybersecurity Job Search, Resume, and Interview Prep](https://images.credly.com/size/110x110/images/a6525eb2-4761-4bdf-b9a0-d28219d5a8ae/image.png)](http://www.credly.com/badges/93106ab8-6682-4eb0-b600-26f6b359c1df "Cybersecurity Job Search, Resume, and Interview Prep")
 [![Introduction to HTML, CSS, & JavaScript](https://images.credly.com/size/110x110/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png)](http://www.credly.com/badges/bf2530e6-6b99-439d-9099-9451105cbd6e "Introduction to HTML, CSS, & JavaScript")
-[![How to Modernize Applications with IBM CICS](https://images.credly.com/size/110x110/images/f21ca8d2-d243-4a56-8480-02200d43ace8/image.png)](http://www.credly.com/badges/a89eebf7-15ac-4c26-8a7f-f70182729d13 "How to Modernize Applications with IBM CICS")
-[![Generative AI and LLMs: Architecture and Data Preparation](https://images.credly.com/size/110x110/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png)](http://www.credly.com/badges/0da6b5dd-768e-4663-b4d9-479d52d3bf17 "Generative AI and LLMs: Architecture and Data Preparation")
-[![LFC101: Inclusive Speaker Orientation](https://images.credly.com/size/110x110/images/16fbd343-192a-49ee-b9b9-de7bd1d4bf17/blob)](http://www.credly.com/badges/b7a0cef3-9bc1-430c-8081-666c7b274a71 "LFC101: Inclusive Speaker Orientation")
-[![LFC102: Inclusive Open Source Community Orientation](https://images.credly.com/size/110x110/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob)](http://www.credly.com/badges/83a67e77-4032-46b5-83c3-5f2c8bd76813 "LFC102: Inclusive Open Source Community Orientation")
-[![LFD134: WebAssembly Components - From Cloud to Edge](https://images.credly.com/size/110x110/images/da88c4ee-7962-42f9-bcdc-4485e509a629/blob)](http://www.credly.com/badges/abc2fe78-5950-4156-a000-f01187d2c8cf "LFD134: WebAssembly Components - From Cloud to Edge")
 <!--END_SECTION:badges-->
 </details>
