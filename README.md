@@ -83,6 +83,10 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Maximo Manage: Introduction to Planning and Scheduling](https://images.credly.com/size/110x110/images/02feab15-e169-4eef-9317-217990edaa43/Maximo_20Manage_20Intro_20to_20Planning_20and_20Scheduling.png)](http://www.credly.com/badges/0d5f5495-61b3-4828-ba98-3713ee457a62 "Maximo Manage: Introduction to Planning and Scheduling")
+[![IBM watsonx Orchestrate: Getting Started with Projects in Skill Studio](https://images.credly.com/size/110x110/images/ff0a1bbd-3a11-44c6-ba53-b9236035f581/IBM_20watsonx_20Orchestrate_20Getting_20Started_20w_20Projects_20in_20Skill_20Studio.png)](http://www.credly.com/badges/7229d14e-9055-4d7a-ae1c-3405ad588cf7 "IBM watsonx Orchestrate: Getting Started with Projects in Skill Studio")
+[![Proofpoint Certified Email Authentication Specialist 2025](https://images.credly.com/size/110x110/images/99bc37b8-2d50-42ba-973e-43480fa64eac/blob)](http://www.credly.com/badges/ae4b8435-0a88-4ac1-bdce-f64f878a2d7e "Proofpoint Certified Email Authentication Specialist 2025")
+[![Proofpoint Certified Ransomware Specialist 2025](https://images.credly.com/size/110x110/images/06dc4f2c-170f-4ba5-9ee1-56b6a5009423/blob)](http://www.credly.com/badges/18ce1150-d7a2-4acb-9346-78a24f0b9577 "Proofpoint Certified Ransomware Specialist 2025")
 [![IBM Z Foundations - Level 1](https://images.credly.com/size/110x110/images/aea62b4f-cae7-4745-93a3-9cedf0aafaf8/IBM_20Z_20Foundations_20Level_201.png)](http://www.credly.com/badges/91905ee8-02b0-4100-ada1-c9e7b5c97ce1 "IBM Z Foundations - Level 1")
 [![Digital Awareness](https://images.credly.com/size/110x110/images/29e7c859-4719-4081-a12f-6bdc073a43d2/image.png)](http://www.credly.com/badges/fd71121d-9a85-4f6e-944d-282e5357791c "Digital Awareness")
 [![AI Fundamentals with IBM SkillsBuild](https://images.credly.com/size/110x110/images/26c21273-c0ab-485b-98a7-f1212dcb82b8/image.png)](http://www.credly.com/badges/dcad106f-c10d-45fb-9b62-4233c3011d34 "AI Fundamentals with IBM SkillsBuild")
@@ -127,9 +131,5 @@ My most recent badges:
 [![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/e80f8a97-fb95-4b3d-b272-4b955b9f4025/blob)](http://www.credly.com/badges/cc26cba2-6eaa-4de6-b231-af86e47fadf9 "LFC191: Open Source Licensing Basics for Software Developers")
 [![IBM Z Operational Log and Data Analytics](https://images.credly.com/size/110x110/images/019dbfa5-84d9-4fd9-a5e5-c57a5f722d7d/image.png)](http://www.credly.com/badges/84328ab0-4353-45c5-bfdd-0a85fc969e54 "IBM Z Operational Log and Data Analytics")
 [![InstructLab: Democratizing AI Models at Scale](https://images.credly.com/size/110x110/images/d739a868-f29a-4754-a49c-cde9ac936ef7/InstructLab_20Democratizing_20AI_20Models_20at_20Scale_20Foundational.png)](http://www.credly.com/badges/f4b9e323-5552-4756-b14a-2e29917e445d "InstructLab: Democratizing AI Models at Scale")
-[![Web Development with HTML, CSS, JavaScript Essentials](https://images.credly.com/size/110x110/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png)](http://www.credly.com/badges/0ba6faca-7b1c-4313-b3c9-cca83473af8a "Web Development with HTML, CSS, JavaScript Essentials")
-[![Vector Database Essentials: Setup, Configuration and Operations](https://images.credly.com/size/110x110/images/43cdb260-3a84-4c59-bc5a-41b2f646dbcf/image.png)](http://www.credly.com/badges/8f8c9a4a-38c6-4b4a-a36a-265cac8b8b51 "Vector Database Essentials: Setup, Configuration and Operations")
-[![Cybersecurity Job Search, Resume, and Interview Prep](https://images.credly.com/size/110x110/images/a6525eb2-4761-4bdf-b9a0-d28219d5a8ae/image.png)](http://www.credly.com/badges/93106ab8-6682-4eb0-b600-26f6b359c1df "Cybersecurity Job Search, Resume, and Interview Prep")
-[![Introduction to HTML, CSS, & JavaScript](https://images.credly.com/size/110x110/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png)](http://www.credly.com/badges/bf2530e6-6b99-439d-9099-9451105cbd6e "Introduction to HTML, CSS, & JavaScript")
 <!--END_SECTION:badges-->
 </details>
