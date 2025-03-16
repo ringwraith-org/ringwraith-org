@@ -83,6 +83,9 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Microsoft Advertising Certified Expert](https://images.credly.com/size/110x110/images/5c2decf4-4c6c-466a-95d5-d39527d237f7/image.png)](http://www.credly.com/badges/a6f54ed8-b5a5-4953-83f6-cd2eca3348dc "Microsoft Advertising Certified Expert")
+[![Network Technician Career Path](https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png)](http://www.credly.com/badges/3b9fe803-ca72-48e1-a25a-22d73dd637ae "Network Technician Career Path")
+[![Network Support and Security](https://images.credly.com/size/110x110/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png)](http://www.credly.com/badges/f454f48e-44e5-4649-ad9d-029743f44f00 "Network Support and Security")
 [![Maximo Manage: Introduction to Planning and Scheduling](https://images.credly.com/size/110x110/images/02feab15-e169-4eef-9317-217990edaa43/Maximo_20Manage_20Intro_20to_20Planning_20and_20Scheduling.png)](http://www.credly.com/badges/0d5f5495-61b3-4828-ba98-3713ee457a62 "Maximo Manage: Introduction to Planning and Scheduling")
 [![IBM watsonx Orchestrate: Getting Started with Projects in Skill Studio](https://images.credly.com/size/110x110/images/ff0a1bbd-3a11-44c6-ba53-b9236035f581/IBM_20watsonx_20Orchestrate_20Getting_20Started_20w_20Projects_20in_20Skill_20Studio.png)](http://www.credly.com/badges/7229d14e-9055-4d7a-ae1c-3405ad588cf7 "IBM watsonx Orchestrate: Getting Started with Projects in Skill Studio")
 [![Proofpoint Certified Email Authentication Specialist 2025](https://images.credly.com/size/110x110/images/99bc37b8-2d50-42ba-973e-43480fa64eac/blob)](http://www.credly.com/badges/ae4b8435-0a88-4ac1-bdce-f64f878a2d7e "Proofpoint Certified Email Authentication Specialist 2025")
@@ -128,8 +131,5 @@ My most recent badges:
 [![LFC193: Introduction to Open Source Licensing Compliance Management](https://images.credly.com/size/110x110/images/647a2912-0b98-4ee3-9cc0-0c89a01cdc02/blob)](http://www.credly.com/badges/107cf83c-be16-4872-97cc-cbd57f2c32fa "LFC193: Introduction to Open Source Licensing Compliance Management")
 [![LFC192: Generating a Software Bill of Materials](https://images.credly.com/size/110x110/images/3ec4dc00-c5ca-4271-98e7-baf91654f838/blob)](http://www.credly.com/badges/fd937646-991f-45fd-89e6-21956a818ae6 "LFC192: Generating a Software Bill of Materials")
 [![LFC194: Implementing Open Source License Compliance Management](https://images.credly.com/size/110x110/images/efb4ebc9-5b26-49e4-bf8d-52a5996d247a/blob)](http://www.credly.com/badges/467a6498-46d0-47af-b519-fd866fd4bce8 "LFC194: Implementing Open Source License Compliance Management")
-[![LFC191: Open Source Licensing Basics for Software Developers](https://images.credly.com/size/110x110/images/e80f8a97-fb95-4b3d-b272-4b955b9f4025/blob)](http://www.credly.com/badges/cc26cba2-6eaa-4de6-b231-af86e47fadf9 "LFC191: Open Source Licensing Basics for Software Developers")
-[![IBM Z Operational Log and Data Analytics](https://images.credly.com/size/110x110/images/019dbfa5-84d9-4fd9-a5e5-c57a5f722d7d/image.png)](http://www.credly.com/badges/84328ab0-4353-45c5-bfdd-0a85fc969e54 "IBM Z Operational Log and Data Analytics")
-[![InstructLab: Democratizing AI Models at Scale](https://images.credly.com/size/110x110/images/d739a868-f29a-4754-a49c-cde9ac936ef7/InstructLab_20Democratizing_20AI_20Models_20at_20Scale_20Foundational.png)](http://www.credly.com/badges/f4b9e323-5552-4756-b14a-2e29917e445d "InstructLab: Democratizing AI Models at Scale")
 <!--END_SECTION:badges-->
 </details>
