@@ -83,6 +83,8 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![Learn the Basics of Machine Learning with IBM Watson Studio](https://images.credly.com/size/110x110/images/00656274-31ad-42b8-b9ac-c2de7e30833e/image.png)](http://www.credly.com/badges/360bc694-9180-43b5-b5cc-67876cab80f2 "Learn the Basics of Machine Learning with IBM Watson Studio")
+[![IBM Cloud Advanced Architect Cloud Options](https://images.credly.com/size/110x110/images/5e8a3b56-0eca-43af-bf90-48acec8a301d/image.png)](http://www.credly.com/badges/67d22a0d-e2cb-4a21-ba01-3d387a1203ea "IBM Cloud Advanced Architect Cloud Options")
 [![Microsoft Advertising Certified Expert](https://images.credly.com/size/110x110/images/5c2decf4-4c6c-466a-95d5-d39527d237f7/image.png)](http://www.credly.com/badges/a6f54ed8-b5a5-4953-83f6-cd2eca3348dc "Microsoft Advertising Certified Expert")
 [![Network Technician Career Path](https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png)](http://www.credly.com/badges/3b9fe803-ca72-48e1-a25a-22d73dd637ae "Network Technician Career Path")
 [![Network Support and Security](https://images.credly.com/size/110x110/images/a4dd891f-7bf5-4938-8241-50dc81e8cc00/image.png)](http://www.credly.com/badges/f454f48e-44e5-4649-ad9d-029743f44f00 "Network Support and Security")
@@ -129,7 +131,5 @@ My most recent badges:
 [![LFD116: Software Engineering Basics for Embedded Systems](https://images.credly.com/size/110x110/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob)](http://www.credly.com/badges/f2091956-6c3e-444e-81aa-52b052a47767 "LFD116: Software Engineering Basics for Embedded Systems")
 [![LFC103: Inclusive Strategies for Open Source](https://images.credly.com/size/110x110/images/ec7dd913-1a42-4986-b627-08121eec53e3/blob)](http://www.credly.com/badges/b2553b33-aee1-4322-8571-3b0afe531cd2 "LFC103: Inclusive Strategies for Open Source")
 [![LFC193: Introduction to Open Source Licensing Compliance Management](https://images.credly.com/size/110x110/images/647a2912-0b98-4ee3-9cc0-0c89a01cdc02/blob)](http://www.credly.com/badges/107cf83c-be16-4872-97cc-cbd57f2c32fa "LFC193: Introduction to Open Source Licensing Compliance Management")
-[![LFC192: Generating a Software Bill of Materials](https://images.credly.com/size/110x110/images/3ec4dc00-c5ca-4271-98e7-baf91654f838/blob)](http://www.credly.com/badges/fd937646-991f-45fd-89e6-21956a818ae6 "LFC192: Generating a Software Bill of Materials")
-[![LFC194: Implementing Open Source License Compliance Management](https://images.credly.com/size/110x110/images/efb4ebc9-5b26-49e4-bf8d-52a5996d247a/blob)](http://www.credly.com/badges/467a6498-46d0-47af-b519-fd866fd4bce8 "LFC194: Implementing Open Source License Compliance Management")
 <!--END_SECTION:badges-->
 </details>
