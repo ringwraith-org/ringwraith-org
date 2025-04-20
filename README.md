@@ -83,6 +83,8 @@ My most recent badges:
 <br>
 <br>
 <!--START_SECTION:badges-->
+[![LFD125: Security for Software Development Managers](https://images.credly.com/size/110x110/images/76c8bc91-42a6-4f06-9484-df961be2b0c8/blob)](http://www.credly.com/badges/86826660-2d99-41b8-b658-eec2727fed44 "LFD125: Security for Software Development Managers")
+[![LFEL1001: Understanding the EU Cyber Resilience Act (CRA)](https://images.credly.com/size/110x110/images/cfc6d0bb-a517-4395-95e2-a95cc2213556/blob)](http://www.credly.com/badges/3c48d8e4-e27c-46a1-a0af-8606dff4f4d8 "LFEL1001: Understanding the EU Cyber Resilience Act (CRA)")
 [![Ansible for IBM Z & LinuxONE Foundations](https://images.credly.com/size/110x110/images/28a5fd99-394d-4128-8690-312af3b74106/Ansible_20for_20IBM_20Z_20and_20LinuxONE.png)](http://www.credly.com/badges/45458e22-021f-4b66-a4ee-ad4b3f54ee13 "Ansible for IBM Z & LinuxONE Foundations")
 [![IBM Z Tech Bytes - November 2024 - Hybrid Cloud & AI](https://images.credly.com/size/110x110/images/89e4b263-82c5-490b-9357-e3280ecea7f1/IBM_20Z_20Tech_20Bytes_20November_202024_20Hybrid_20Cloud_20and_20AI.png)](http://www.credly.com/badges/4363c51e-2baa-4dd6-b61f-052d15dbdbf4 "IBM Z Tech Bytes - November 2024 - Hybrid Cloud & AI")
 [![Generative AI for Customer Support Specialization](https://images.credly.com/size/110x110/images/ea9e6964-2d34-4d72-8d41-f1183180971c/Coursera_20Gen_20AI_20for_20Customer_20Support_20Specialization.png)](http://www.credly.com/badges/14bfeb25-9193-467c-812e-8b221b143d65 "Generative AI for Customer Support Specialization")
@@ -129,7 +131,5 @@ My most recent badges:
 [![Basis Bidding](https://images.credly.com/size/110x110/images/2e3ad08d-0128-4c35-ad3f-3174082250e3/image.png)](http://www.credly.com/badges/e11e4a15-4cc2-4ff3-96da-b3134a05dd5b "Basis Bidding")
 [![Basis Reporting](https://images.credly.com/size/110x110/images/72b24430-d8e1-44ec-bf06-e72e0489cc67/image.png)](http://www.credly.com/badges/ddc49706-724d-4a08-bb7d-7ca38896e31c "Basis Reporting")
 [![Basis Connect+](https://images.credly.com/size/110x110/images/4db2f7df-3c73-4a51-b6aa-8bede9ec9de1/image.png)](http://www.credly.com/badges/a010c729-9c3a-4eda-91d7-795e132ee72e "Basis Connect+")
-[![Digital Media Buyer](https://images.credly.com/size/110x110/images/2c42bb27-e0b2-4116-9b94-dfb4142e1d13/image.png)](http://www.credly.com/badges/fb1c117f-2112-423a-87ab-1124ee0a8668 "Digital Media Buyer")
-[![Digital Media Associate](https://images.credly.com/size/110x110/images/b8a41a79-a790-4042-a8c9-3c9e67164cef/image.png)](http://www.credly.com/badges/a0465f4a-9018-4704-821f-196ef3b83850 "Digital Media Associate")
 <!--END_SECTION:badges-->
 </details>
