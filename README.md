@@ -82,3 +82,4 @@ To see all my Credly badges please click [here](https://www.credly.com/users/pie
 [![piers-margetts's Credly stats card](https://credly-readme-stats.onrender.com/api/stats?username=piers-margetts)](https://www.credly.com/users/piers-margetts/badges)
 <br>
 <br>
+[![piers-margetts's Credly carousel card](https://credly-readme-stats.onrender.com/api/carousel?username=piers-margetts)](https://www.credly.com/users/piers-margetts/badges)
