@@ -79,8 +79,6 @@ To view my Open University OpenLearn profile and acheivements please click [here
 To see all my Credly badges please click [here](https://www.credly.com/users/piers-margetts/badges)
 <br>
 <br>
-<a href="https://www.credly.com/users/piers-margetts/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/stats?username=piers-margetts" alt="piers-margetts's Credly stats card" />
-</a>
+[![piers-margetts's Credly stats card](https://credly-readme-stats.onrender.com/api/stats?username=piers-margetts)](https://www.credly.com/users/piers-margetts/badges)
 <br>
 <br>
